@@ -4,6 +4,7 @@ let currentQuestionIndex = 0;
 let selectedAnswer = null;
 let score = 0;
 let activeCategory = "";
+let shuffledOptions = {}; // Store shuffled options for each question
 
 const menuScreen = document.getElementById('menu-screen');
 const quizScreen = document.getElementById('quiz-screen');
@@ -21,6 +22,23 @@ const summaryQuestion = document.getElementById('summary-questions');
 async function initApp() {
     allQuestions = await loadQuestions();
     questions = [...allQuestions];
+}
+
+// Function to shuffle array using Fisher-Yates algorithm
+function shuffleArray(array) {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
+// Function to get shuffled options for a question
+function getShuffledOptions(question) {
+    const options = ['A', 'B', 'C', 'D'];
+    const shuffled = shuffleArray(options);
+    return shuffled;
 }
 
 document.addEventListener('DOMContentLoaded', initApp);
@@ -89,15 +107,22 @@ function displayQuestion() {
 
     questionText.textContent = currentQuestion.question;
     
-    for (const option of ['A', 'B', 'C', 'D']) {
-        const optionButton = document.getElementById(`option-${option}`);
-        const optionText = document.getElementById(`option-${option}-text`);
-        const optionIcon = document.getElementById(`option-${option}-icon`);
+    // Get shuffled options for this question
+    const shuffled = getShuffledOptions(currentQuestion);
+    shuffledOptions[currentQuestionIndex] = shuffled;
+    
+    for (let i = 0; i < 4; i++) {
+        const displayLetter = ['A', 'B', 'C', 'D'][i]; // Position visuelle
+        const originalLetter = shuffled[i]; // Lettre originale dans le JSON
+        const optionButton = document.getElementById(`option-${displayLetter}`);
+        const optionText = document.getElementById(`option-${displayLetter}-text`);
+        const optionIcon = document.getElementById(`option-${displayLetter}-icon`);
         
         optionButton.className = 'option-button';
+        optionButton.dataset.originalAnswer = originalLetter; // Store the original letter
         optionIcon.innerHTML = '';
         
-        optionText.textContent = currentQuestion[option];
+        optionText.textContent = currentQuestion[originalLetter];
     }
     
     feedbackMessage.classList.add('hidden');
@@ -107,10 +132,12 @@ function displayQuestion() {
 function handleAnswerSelect(answer) {
     if (selectedAnswer !== null) return;
     
-    selectedAnswer = answer;
     const currentQuestion = questions[currentQuestionIndex];
-    const isCorrect = answer === currentQuestion.answer;
     const optionButton = document.getElementById(`option-${answer}`);
+    const originalAnswer = optionButton.dataset.originalAnswer; // Get the original letter
+    
+    selectedAnswer = answer;
+    const isCorrect = originalAnswer === currentQuestion.answer;
     const optionIcon = document.getElementById(`option-${answer}-icon`);
     
     optionButton.classList.add('selected');
@@ -124,7 +151,7 @@ function handleAnswerSelect(answer) {
         optionIcon.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line></svg>';
         
         feedbackMessage.classList.remove('hidden');
-        feedbackMessage.textContent = `The correct answer is: ${currentQuestion.answer}`;
+        feedbackMessage.textContent = `La bonne réponse est: ${currentQuestion[currentQuestion.answer]}`;
     }
     
     setTimeout(() => {
