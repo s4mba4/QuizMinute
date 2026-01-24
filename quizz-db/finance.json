@@ -1,0 +1,2934 @@
+{
+    "0": {
+      "tag": "tage-cours",
+      "question": "Quel est le terme utilisé pour désigner la différence entre le prix d'achat et le prix de vente d'un actif financier ?",
+      "A": "Marge",
+      "B": "Spread",
+      "C": "Rentabilité",
+      "D": "Dividende",
+      "answer": "B"
+    },
+    "1": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants fait partie des charges financières d'une entreprise ?",
+      "A": "Loyer",
+      "B": "Intérêt sur emprunt",
+      "C": "Amortissement",
+      "D": "Salaires",
+      "answer": "B"
+    },
+    "2": {
+      "tag": "tage-cours",
+      "question": "Laquelle des données suivantes est nécessaire pour calculer le coefficient bêta d'une action ?",
+      "A": "Le rendement du marché",
+      "B": "Le taux d'intérêt des obligations",
+      "C": "Le dividende de l'action",
+      "D": "Le chiffre d'affaires de l'entreprise",
+      "answer": "A"
+    },
+    "3": {
+      "tag": "tage-cours",
+      "question": "Dans quelle situation une société pourrait émettre des actions ?",
+      "A": "Lors d'un emprunt bancaire",
+      "B": "Pour lever des fonds",
+      "C": "Pour racheter ses propres actions",
+      "D": "Pour distribuer des dividendes",
+      "answer": "B"
+    },
+    "4": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants est un indicateur de rentabilité d'une entreprise ?",
+      "A": "Le ratio de liquidité",
+      "B": "Le ratio de solvabilité",
+      "C": "Le retour sur investissement (ROI)",
+      "D": "Le délai moyen de paiement",
+      "answer": "C"
+    },
+    "5": {
+      "tag": "tage-cours",
+      "question": "Que mesure le ratio de liquidité générale ?",
+      "A": "La rentabilité de l'entreprise",
+      "B": "La capacité de l'entreprise à payer ses dettes à court terme",
+      "C": "L'endettement total de l'entreprise",
+      "D": "Les rendements des actions",
+      "answer": "B"
+    },
+    "6": {
+      "tag": "tage-cours",
+      "question": "Quel est le but principal de l'analyse technique en finance ?",
+      "A": "Évaluer les états financiers d'une entreprise",
+      "B": "Prévoir les mouvements de prix futurs en analysant les tendances passées",
+      "C": "Calculer la rentabilité d'un investissement",
+      "D": "Analyser les facteurs macroéconomiques influençant le marché",
+      "answer": "B"
+    },
+    "7": {
+      "tag": "tage-cours",
+      "question": "Si un investisseur souhaite acheter un actif sans avoir de certitude sur son rendement, il peut utiliser le concept de :",
+      "A": "Rentabilité",
+      "B": "Risque",
+      "C": "Bêta",
+      "D": "Diversification",
+      "answer": "B"
+    },
+    "8": {
+      "tag": "tage-cours",
+      "question": "Que représente le 'bêta' d'une action ?",
+      "A": "Le rendement absolu de l'action",
+      "B": "La volatilité de l'action par rapport au marché",
+      "C": "Le taux de dividende de l'action",
+      "D": "Le risque spécifique de l'action",
+      "answer": "B"
+    },
+    "9": {
+      "tag": "tage-cours",
+      "question": "Lorsqu'une entreprise décide de se financer par le biais de l'émission d'obligations, elle contracte :",
+      "A": "Une dette à long terme",
+      "B": "Un financement en capital",
+      "C": "Une prime de risque",
+      "D": "Une dette à court terme",
+      "answer": "A"
+    },
+    "10": {
+      "tag": "tage-cours",
+      "question": "L'EBITDA correspond à :",
+      "A": "Les bénéfices avant impôts et amortissements",
+      "B": "Les bénéfices avant intérêts, impôts, dépréciations et amortissements",
+      "C": "Les revenus nets après impôts et amortissements",
+      "D": "Les coûts d'exploitation totaux",
+      "answer": "B"
+    },
+    "11": {
+      "tag": "tage-cours",
+      "question": "Quel est le rôle d'un courtier sur le marché financier ?",
+      "A": "Émettre des actions",
+      "B": "Acheter et vendre des titres financiers pour le compte de clients",
+      "C": "Gérer des portefeuilles d'investissements",
+      "D": "Offrir des conseils juridiques aux entreprises",
+      "answer": "B"
+    },
+    "12": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants n'est pas pris en compte dans le calcul du coût du capital ?",
+      "A": "Le coût des fonds propres",
+      "B": "Le coût des dettes",
+      "C": "Le coût des dividendes",
+      "D": "Le taux d'imposition",
+      "answer": "C"
+    },
+    "13": {
+      "tag": "tage-cours",
+      "question": "Si le taux d'intérêt sur un emprunt est supérieur à l'inflation, le pouvoir d'achat des remboursements :",
+      "A": "Augmente",
+      "B": "Reste constant",
+      "C": "Diminue",
+      "D": "Est nul",
+      "answer": "C"
+    },
+    "14": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants est un risque systématique ?",
+      "A": "Risque de crédit",
+      "B": "Risque de taux d'intérêt",
+      "C": "Risque de change",
+      "D": "Risque d'entreprise spécifique",
+      "answer": "B"
+    },
+    "15": {
+      "tag": "tage-cours",
+      "question": "Une augmentation de la masse monétaire dans une économie conduit généralement à :",
+      "A": "Une baisse des taux d'intérêt",
+      "B": "Une réduction de la consommation",
+      "C": "Une augmentation de la demande de monnaie",
+      "D": "Une diminution des investissements",
+      "answer": "A"
+    },
+    "16": {
+      "tag": "tage-cours",
+      "question": "Quel est l'objectif principal de la gestion d'un portefeuille d'investissement ?",
+      "A": "Minimiser le risque",
+      "B": "Maximiser le rendement",
+      "C": "Maximiser le rendement tout en contrôlant le risque",
+      "D": "Obtenir des revenus réguliers",
+      "answer": "C"
+    },
+    "17": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants fait partie de la politique de dividende d'une entreprise ?",
+      "A": "Le taux de rentabilité interne",
+      "B": "La part des bénéfices distribuée aux actionnaires",
+      "C": "Les décisions d'investissement à long terme",
+      "D": "Les coûts fixes de production",
+      "answer": "B"
+    },
+    "18": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants décrit le mieux le principe de la diversification dans un portefeuille d'investissements ?",
+      "A": "Investir uniquement dans des actions à haut rendement",
+      "B": "Réduire le risque global en investissant dans des actifs différents",
+      "C": "Concentrer les investissements dans un secteur spécifique",
+      "D": "Acheter uniquement des obligations d'État",
+      "answer": "B"
+    },
+    "19": {
+      "tag": "tage-cours",
+      "question": "Si le rendement d'un investissement est inférieur à son coût du capital, cela signifie que l'investissement :",
+      "A": "Génère de la valeur pour les actionnaires",
+      "B": "N'est pas rentable",
+      "C": "Va augmenter la rentabilité de l'entreprise",
+      "D": "Est sans risque",
+      "answer": "B"
+    },
+    "20": {
+      "tag": "tage-cours",
+      "question": "Dans quel cas un investisseur serait-il plus susceptible d'acheter une obligation plutôt qu'une action ?",
+      "A": "Si l'investisseur recherche un revenu fixe",
+      "B": "Si l'investisseur veut un potentiel de gain élevé",
+      "C": "Si l'investisseur est prêt à accepter une grande volatilité",
+      "D": "Si l'investisseur recherche un contrôle de l'entreprise",
+      "answer": "A"
+    },
+    "21": {
+      "tag": "tage-cours",
+      "question": "Le taux de rendement interne (TRI) est un indicateur utilisé pour :",
+      "A": "Comparer les investissements en fonction de leur rentabilité",
+      "B": "Calculer la rentabilité brute d'un actif",
+      "C": "Analyser les bénéfices après impôts d'une entreprise",
+      "D": "Calculer la valeur actuelle nette d'un projet",
+      "answer": "A"
+    },
+    "22": {
+      "tag": "tage-cours",
+      "question": "Le ratio de solvabilité permet d'évaluer :",
+      "A": "La rentabilité d'une entreprise",
+      "B": "La capacité d'une entreprise à rembourser ses dettes à long terme",
+      "C": "La liquidité d'une entreprise",
+      "D": "Le risque d'inflation",
+      "answer": "B"
+    },
+    "23": {
+      "tag": "tage-cours",
+      "question": "Quel est l'objectif principal de la politique monétaire d'une banque centrale ?",
+      "A": "Contrôler l'inflation et stabiliser l'économie",
+      "B": "Favoriser la croissance économique en augmentant les impôts",
+      "C": "Accroître la masse monétaire sans tenir compte de l'inflation",
+      "D": "Réduire les taux d'intérêt de manière systématique",
+      "answer": "A"
+    },
+    "24": {
+      "tag": "tage-cours",
+      "question": "Lequel des éléments suivants caractérise une entreprise en phase de croissance ?",
+      "A": "Une rentabilité nette stable",
+      "B": "Une forte augmentation de son chiffre d'affaires",
+      "C": "Des bénéfices élevés et constants",
+      "D": "Un faible taux d'endettement",
+      "answer": "B"
+    },
+    "25": {
+      "tag": "tage-cours",
+      "question": "Le rendement d'une action est composé de :",
+      "A": "L'augmentation du prix de l'action uniquement",
+      "B": "Le dividende uniquement",
+      "C": "Le dividende et l'augmentation du prix de l'action",
+      "D": "La prime de risque",
+      "answer": "C"
+    },
+    "26": {
+      "tag": "tage-cours",
+      "question": "Qu'est-ce qu'une obligation convertie en action ?",
+      "A": "Une obligation échangeable contre d'autres titres de créance",
+      "B": "Une obligation qui peut être convertie en actions de l'entreprise émettrice",
+      "C": "Un emprunt sans intérêt",
+      "D": "Une action avec un rendement garanti",
+      "answer": "B"
+    },
+    "27": {
+      "tag": "tage-cours",
+      "question": "Si une entreprise rembourse une dette avant la date prévue, elle :",
+      "A": "Réduit son endettement",
+      "B": "Augmente son capital",
+      "C": "Génère plus de bénéfices",
+      "D": "N'a aucun impact sur sa situation financière",
+      "answer": "A"
+    },
+    "28": {
+      "tag": "tage-cours",
+      "question": "Le ratio de rentabilité des capitaux propres (ROE) mesure :",
+      "A": "La rentabilité d'une entreprise par rapport à ses actifs",
+      "B": "La rentabilité d'une entreprise par rapport à son capital propre",
+      "C": "Le rendement d'une action",
+      "D": "Le niveau d'endettement d'une entreprise",
+      "answer": "B"
+    },
+    "29": {
+      "tag": "tage-cours",
+      "question": "Quel est l'objectif de l'analyse fondamentale en finance ?",
+      "A": "Prévoir les tendances du marché en fonction des graphiques",
+      "B": "Analyser la solidité financière d'une entreprise et sa valorisation",
+      "C": "Investir dans des actifs à haut risque",
+      "D": "Réduire la volatilité du marché",
+      "answer": "B"
+    },
+    "30": {
+      "tag": "tage-cours",
+      "question": "Quel est le principal objectif d'une analyse du ratio d'endettement d'une entreprise ?",
+      "A": "A) Évaluer la capacité de l'entreprise à rembourser ses dettes à long terme",
+      "B": "B) Mesurer la rentabilité des investissements réalisés par l'entreprise",
+      "C": "C) Analyser la liquidité de l'entreprise à court terme",
+      "D": "D) Évaluer la rentabilité de l'entreprise pour ses actionnaires",
+      "answer": "A"
+    },
+    "31": {
+      "tag": "tage-cours",
+      "question": "Lors de l'évaluation d'un projet d'investissement, quel critère est généralement utilisé pour déterminer sa rentabilité ?",
+      "A": "A) Le taux de rentabilité interne (TRI)",
+      "B": "B) La période de récupération du capital investi",
+      "C": "C) Le ratio de rentabilité des actifs",
+      "D": "D) Le taux d'actualisation",
+      "answer": "B"
+    },
+    "32": {
+      "tag": "tage-cours",
+      "question": "Si une entreprise émet des actions nouvelles, quel effet cela aura-t-il généralement sur le bénéfice par action (BPA) ?",
+      "A": "A) Le BPA diminue en raison de la dilution du capital",
+      "B": "B) Le BPA reste inchangé car il n'est pas affecté par l'émission d'actions",
+      "C": "C) Le BPA augmente grâce aux nouveaux fonds levés",
+      "D": "D) Le BPA augmente uniquement si l'entreprise utilise les fonds efficacement",
+      "answer": "C"
+    },
+    "33": {
+      "tag": "tage-cours",
+      "question": "Quel est l'impact immédiat d'une augmentation de la dette sur le ratio de rentabilité des capitaux propres (ROE) ?",
+      "A": "A) L'impact est positif si les rendements de l'investissement sont supérieurs au coût de la dette",
+      "B": "B) L'impact est négatif, réduisant immédiatement le ROE",
+      "C": "C) Aucune incidence sur le ROE à court terme",
+      "D": "D) L'impact est neutre, car la dette ne modifie pas directement le ROE",
+      "answer": "A"
+    },
+    "34": {
+      "tag": "tage-cours",
+      "question": "Quel est l'élément clé pris en compte dans une analyse financière basée sur les flux de trésorerie actualisés (DCF) ?",
+      "A": "A) Les flux de trésorerie futurs générés par l'entreprise",
+      "B": "B) La valeur actuelle des actifs tangibles de l'entreprise",
+      "C": "C) Le prix des actions de l'entreprise",
+      "D": "D) Les bénéfices passés de l'entreprise",
+      "answer": "A"
+    },
+    "35": {
+      "tag": "tage-cours",
+      "question": "Quel est l'impact d'une politique de dividende élevé sur le ratio de couverture des intérêts d'une entreprise ?",
+      "A": "A) Il peut réduire la couverture des intérêts en raison de la sortie de liquidités élevées",
+      "B": "B) Il n'a aucun impact sur la couverture des intérêts",
+      "C": "C) Il améliore la couverture des intérêts en renforçant la stabilité financière",
+      "D": "D) Il augmente la couverture des intérêts en réduisant les dettes à long terme",
+      "answer": "B"
+    },
+    "36": {
+      "tag": "tage-cours",
+      "question": "Quel est le principal avanCours d'une structure de capital comportant un fort levier financier ?",
+      "A": "A) Augmenter les rendements pour les actionnaires en période de croissance économique",
+      "B": "B) Réduire le risque de faillite de l'entreprise",
+      "C": "C) Permettre une flexibilité accrue dans la gestion de la trésorerie",
+      "D": "D) Minimiser l'impôt sur les sociétés grâce aux charges d'intérêt",
+      "answer": "C"
+    },
+    "37": {
+      "tag": "tage-cours",
+      "question": "Quel est l'effet d'une opération de rachat d'actions (buyback) sur le bénéfice par action (BPA) d'une entreprise ?",
+      "A": "A) Le BPA augmente car le nombre d'actions en circulation diminue",
+      "B": "B) Le BPA diminue car l'entreprise a moins de liquidités disponibles",
+      "C": "C) Le BPA reste inchangé car il n'est pas influencé par les rachats d'actions",
+      "D": "D) Le BPA augmente uniquement si l'entreprise obtient un rendement plus élevé sur ses investissements",
+      "answer": "A"
+    },
+    "38": {
+      "tag": "tage-cours",
+      "question": "Quel est l'impact d'une hausse des taux d'intérêt sur la valorisation des entreprises ?",
+      "A": "A) La valorisation des entreprises baisse en raison de la hausse du coût du capital",
+      "B": "B) La valorisation des entreprises augmente car les rendements futurs deviennent plus attractifs",
+      "C": "C) Aucune incidence sur la valorisation des entreprises à court terme",
+      "D": "D) La valorisation des entreprises reste inchangée car les taux d'intérêt n'affectent pas la croissance",
+      "answer": "D"
+    },
+    "39": {
+      "tag": "tage-cours",
+      "question": "En cas de hausse des taux d'intérêt, quel impact cela a-t-il généralement sur la valorisation des entreprises ?",
+      "A": "A) La valorisation des entreprises baisse en raison de la hausse du coût du capital",
+      "B": "B) La valorisation des entreprises augmente car les rendements futurs deviennent plus attractifs",
+      "C": "C) Aucune incidence sur la valorisation des entreprises à court terme",
+      "D": "D) La valorisation des entreprises reste inchangée car les taux d'intérêt n'affectent pas la croissance",
+      "answer": "A"
+    },
+    "40": {
+      "tag": "tage-cours",
+      "question": "Dans l'analyse des flux de trésorerie, quel est l'élément crucial pour estimer la capacité d'une entreprise à générer des liquidités ?",
+      "A": "A) Le flux de trésorerie d'exploitation",
+      "B": "B) Les bénéfices avant intérêts, impôts, amortissements et provisions (EBITDA)",
+      "C": "C) Le flux de trésorerie libre (FCF)",
+      "D": "D) Le ratio de rentabilité des capitaux propres",
+      "answer": "B"
+    },
+    "41": {
+      "tag": "tage-cours",
+      "question": "En cas de rachat d'entreprise, quel est l'impact immédiat sur le ratio de rentabilité des capitaux propres (ROE) ?",
+      "A": "A) Le ROE peut augmenter si l'entreprise acheteuse génère des synergies",
+      "B": "B) Le ROE baisse immédiatement en raison des coûts de l'acquisition",
+      "C": "C) Le ROE reste inchangé car l'acquisition n'affecte pas la rentabilité",
+      "D": "D) Le ROE diminue uniquement si l'acquisition est financée par des fonds propres",
+      "answer": "C"
+    },
+    "42": {
+      "tag": "tage-cours",
+      "question": "Quelle méthode est utilisée pour évaluer la valeur des options réelles dans une analyse d'investissement ?",
+      "A": "A) La méthode de l'actualisation des flux de trésorerie",
+      "B": "B) Le modèle de Black-Scholes",
+      "C": "C) Le calcul du taux de rentabilité interne",
+      "D": "D) La méthode des comparables",
+      "answer": "B"
+    },
+    "43": {
+      "tag": "tage-cours",
+      "question": "Quel est le principal objectif d'une analyse des risques dans un projet d'investissement ?",
+      "A": "A) Identifier les facteurs externes susceptibles d'affecter la rentabilité du projet",
+      "B": "B) Maximiser le rendement attendu du projet",
+      "C": "C) Minimiser le coût initial de l'investissement",
+      "D": "D) Estimer la durée nécessaire pour récupérer l'investissement initial",
+      "answer": "D"
+    },
+    "44": {
+      "tag": "tage-cours",
+      "question": "Quel est le principal objectif d'un ratio de liquidité ?",
+      "A": "A) Mesurer la capacité de l'entreprise à honorer ses dettes à court terme",
+      "B": "B) Évaluer la rentabilité de l'entreprise à long terme",
+      "C": "C) Estimer la solvabilité à long terme",
+      "D": "D) Évaluer la rentabilité de l'ensemble de ses actifs",
+      "answer": "A"
+    },
+    "45": {
+      "tag": "tage-cours",
+      "question": "Dans une analyse de rentabilité, quel critère est le plus utilisé pour évaluer le retour sur investissement (ROI) ?",
+      "A": "A) Le taux de rentabilité interne (IRR)",
+      "B": "B) Le flux de trésorerie net actualisé",
+      "C": "C) Le ratio de rentabilité des actifs",
+      "D": "D) Le délai de récupération de l'investissement",
+      "answer": "B"
+    },
+    "46": {
+      "tag": "tage-cours",
+      "question": "Quel est l'impact immédiat de l'augmentation des coûts fixes sur la rentabilité d'une entreprise ?",
+      "A": "A) La rentabilité peut se détériorer si l'entreprise n'augmente pas ses ventes",
+      "B": "B) La rentabilité augmente automatiquement en raison de la baisse des coûts variables",
+      "C": "C) La rentabilité reste inchangée car les coûts fixes ne varient pas avec les ventes",
+      "D": "D) La rentabilité augmente si l'entreprise réduit ses coûts variables",
+      "answer": "A"
+    },
+    "47": {
+      "tag": "tage-cours",
+      "question": "Quel est l'impact d'un ratio de rentabilité élevé sur la valorisation d'une entreprise ?",
+      "A": "A) Il augmente généralement la valorisation en raison des attentes de rendements plus élevés",
+      "B": "B) Il diminue la valorisation car il est perçu comme un signe de risque accru",
+      "C": "C) Il n'a pas d'impact direct sur la valorisation",
+      "D": "D) Il stabilise la valorisation en réduisant la volatilité des rendements",
+      "answer": "D"
+    }, 
+      "48": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact d'une augmentation du taux d'intérêt sur la valorisation d'une entreprise ?",
+        "A": "A) La valorisation de l'entreprise diminue en raison de la hausse du coût du capital",
+        "B": "B) La valorisation de l'entreprise augmente car les rendements futurs deviennent plus attractifs",
+        "C": "C) Aucune incidence sur la valorisation des entreprises",
+        "D": "D) La valorisation de l'entreprise reste inchangée, car le taux d'intérêt n'affecte pas la valorisation",
+        "answer": "A"
+      },
+      "49": {
+        "tag": "tage-cours",
+        "question": "Dans une analyse de rentabilité, quel critère est le plus utilisé pour évaluer la rentabilité d'un investissement ?",
+        "A": "A) Le taux de rentabilité interne (IRR)",
+        "B": "B) Le retour sur investissement (ROI)",
+        "C": "C) Le délai de récupération",
+        "D": "D) Le rendement sur l'actif (ROA)",
+        "answer": "A"
+      },
+      "50": {
+        "tag": "tage-cours",
+        "question": "Lorsqu'une entreprise émet des actions nouvelles, quel est l'impact immédiat sur la valeur par action ?",
+        "A": "A) La valeur par action baisse en raison de la dilution des actions existantes",
+        "B": "B) La valeur par action augmente immédiatement car l'entreprise dispose de plus de liquidités",
+        "C": "C) La valeur par action reste inchangée car les actions nouvelles sont compensées par une augmentation des bénéfices",
+        "D": "D) La valeur par action baisse temporairement mais se stabilise à long terme",
+        "answer": "A"
+      },
+      "51": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact d'une politique de dividende faible sur le coût du capital ?",
+        "A": "A) Le coût du capital diminue, car l'entreprise peut utiliser les fonds pour investir dans des projets rentables",
+        "B": "B) Le coût du capital reste inchangé, car la politique de dividende n'affecte pas les financements externes",
+        "C": "C) Le coût du capital augmente en raison de la perception d'une rentabilité moins élevée par les actionnaires",
+        "D": "D) Le coût du capital diminue, car les actionnaires exigent moins de rendement",
+        "answer": "A"
+      },
+      "52": {
+        "tag": "tage-cours",
+        "question": "Quel ratio permet de mesurer la rentabilité d'une entreprise par rapport à ses capitaux propres ?",
+        "A": "A) Le ratio de rentabilité des capitaux propres (ROE)",
+        "B": "B) Le retour sur actifs (ROA)",
+        "C": "C) Le ratio de rentabilité nette",
+        "D": "D) Le ratio d'endettement",
+        "answer": "A"
+      },
+    
+      "53": {
+        "tag": "tage-cours",
+        "question": "Quel est le principal facteur qui influence le coût du capital d'une entreprise ?",
+        "A": "A) Le taux d'intérêt sans risque",
+        "B": "B) La rentabilité historique de l'entreprise",
+        "C": "C) Le niveau d'endettement de l'entreprise",
+        "D": "D) La politique de dividende de l'entreprise",
+        "answer": "B"
+      },
+      "54": {
+        "tag": "tage-cours",
+        "question": "Dans le cadre d'une analyse de flux de trésorerie actualisés (DCF), quelle est l'importance d'une prévision des flux futurs ?",
+        "A": "A) Les flux futurs sont essentiels pour évaluer la valeur actuelle nette d'un projet",
+        "B": "B) Les flux futurs ne sont pas importants car l'accent est mis sur la rentabilité passée",
+        "C": "C) Les flux futurs ne peuvent pas être prévus de manière fiable et sont donc négligés",
+        "D": "D) Les flux futurs sont secondaires et l'accent est mis sur le coût du capital",
+        "answer": "B"
+      },
+      "55": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact d'une réduction des coûts fixes sur la rentabilité d'une entreprise ?",
+        "A": "A) La rentabilité augmente car les coûts fixes ne varient pas avec le volume de ventes",
+        "B": "B) La rentabilité reste inchangée car les coûts fixes sont fixes",
+        "C": "C) La rentabilité diminue car les coûts fixes sont proportionnels au chiffre d'affaires",
+        "D": "D) La rentabilité augmente seulement si les ventes augmentent également",
+        "answer": "B"
+      },
+      "56": {
+        "tag": "tage-cours",
+        "question": "Quel est l'effet d'une augmentation du capital propre sur la solvabilité d'une entreprise ?",
+        "A": "A) L'augmentation du capital propre améliore la solvabilité de l'entreprise en réduisant la proportion de dette",
+        "B": "B) L'augmentation du capital propre n'a aucun impact sur la solvabilité",
+        "C": "C) La solvabilité diminue car l'entreprise devient plus exposée au risque de marché",
+        "D": "D) La solvabilité diminue à court terme, mais peut s'améliorer à long terme",
+        "answer": "B"
+      },
+      "57": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact d'une hausse des coûts des matières premières sur la rentabilité d'une entreprise ?",
+        "A": "A) La rentabilité baisse car l'entreprise devra augmenter ses prix ou accepter une compression des marges",
+        "B": "B) La rentabilité augmente car l'entreprise bénéficie de marges plus élevées sur ses produits",
+        "C": "C) La rentabilité reste inchangée, car l'entreprise peut compenser les coûts par une meilleure gestion",
+        "D": "D) La rentabilité reste inchangée car la hausse des coûts n'affecte pas directement la rentabilité",
+        "answer": "B"
+      },
+      "58": {
+        "tag": "tage-cours",
+        "question": "Quel est l'effet d'une politique de réduction de la dette à long terme sur le risque d'une entreprise ?",
+        "A": "A) La réduction de la dette à long terme diminue le risque financier en réduisant l'effet de levier",
+        "B": "B) La réduction de la dette à long terme augmente le risque financier car l'entreprise dépend davanCours de l'emprunt",
+        "C": "C) La réduction de la dette à long terme n'affecte pas le risque global",
+        "D": "D) La réduction de la dette à long terme a un effet négatif sur la rentabilité à court terme",
+        "answer": "B"
+      },
+      "59": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact de la hausse des taux d'intérêt sur les entreprises ayant un fort levier financier ?",
+        "A": "A) Les entreprises avec un fort levier financier souffriront davanCours de la hausse des taux d'intérêt en raison de l'augmentation des charges d'intérêt",
+        "B": "B) Les entreprises avec un fort levier financier bénéficieront de la hausse des taux d'intérêt en raison d'une augmentation de la rentabilité",
+        "C": "C) Aucune incidence sur ces entreprises, car elles ont un faible niveau de dette",
+        "D": "D) Les entreprises avec un fort levier financier subiront une diminution de leur rentabilité",
+        "answer": "B"
+      },
+    
+      "60": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact d'une forte rentabilité sur le coût du capital d'une entreprise ?",
+        "A": "A) Une forte rentabilité réduit le coût du capital car elle améliore les perspectives de l'entreprise",
+        "B": "B) Une forte rentabilité augmente le coût du capital en raison des attentes plus élevées des investisseurs",
+        "C": "C) Une forte rentabilité n'a pas d'impact direct sur le coût du capital",
+        "D": "D) Une forte rentabilité augmente la perception du risque et donc le coût du capital",
+        "answer": "C"
+      },
+      "61": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact d'une augmentation de la dette à court terme sur la solvabilité d'une entreprise ?",
+        "A": "A) L'augmentation de la dette à court terme diminue la solvabilité à court terme si l'entreprise n'a pas de liquidités suffisantes",
+        "B": "B) L'augmentation de la dette à court terme améliore la solvabilité si l'entreprise utilise efficacement les fonds",
+        "C": "C) Aucune incidence sur la solvabilité à court terme",
+        "D": "D) L'augmentation de la dette à court terme augmente immédiatement la solvabilité",
+        "answer": "C"
+      },
+    
+      "62": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact de la baisse des prix des matières premières sur les marges d'une entreprise ?",
+        "A": "A) Les marges bénéficiaires augmentent, car l'entreprise peut réduire ses coûts de production",
+        "B": "B) Les marges bénéficiaires diminuent, car l'entreprise perd en compétitivité",
+        "C": "C) Aucune incidence sur les marges bénéficiaires si l'entreprise ne réduit pas ses prix",
+        "D": "D) Les marges bénéficiaires restent inchangées, car les coûts sont fixes",
+        "answer": "D"
+      },
+    
+      "63": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact de l'utilisation d'options réelles dans une évaluation d'investissement ?",
+        "A": "A) Les options réelles permettent de valoriser l'option de flexibilité et d'adaptation future des projets",
+        "B": "B) Les options réelles diminuent la valeur d'un projet en raison de l'incertitude",
+        "C": "C) Les options réelles n'affectent pas la valorisation d'un investissement",
+        "D": "D) Les options réelles augmentent la complexité du modèle de valorisation",
+        "answer": "D"
+      },
+    
+      "64": {
+        "tag": "tage-cours",
+        "question": "Quel est l'impact immédiat d'une réduction des stocks sur le fonds de roulement ?",
+        "A": "A) La réduction des stocks libère des liquidités, augmentant ainsi le fonds de roulement",
+        "B": "B) La réduction des stocks n'affecte pas directement le fonds de roulement",
+        "C": "C) La réduction des stocks diminue le fonds de roulement en augmentant les besoins en liquidités",
+        "D": "D) La réduction des stocks augmente le fonds de roulement en réduisant les créances",
+        "answer": "A"
+      },
+      
+      "65": {
+        "tag": "tage-cours",
+        "question": "Quel est l'effet d'une politique de fusion sur la rentabilité à court terme d'une entreprise ?",
+        "A": "A) La rentabilité à court terme peut diminuer en raison des coûts d'intégration et des synergies",
+        "B": "B) La rentabilité à court terme peut augmenter immédiatement grâce à l'effet de taille",
+        "C": "C) La rentabilité reste inchangée à court terme",
+        "D": "D) La rentabilité à court terme diminue en raison des amortissements accrus",
+        "answer": "A"
+      },
+        "66": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une hausse du taux d'intérêt sur la valorisation d'une entreprise ?",
+          "A": "A) La valorisation augmente en raison de l'augmentation des rendements",
+          "B": "B) La valorisation reste inchangée car elle est indépendante des taux d'intérêt",
+          "C": "C) La valorisation diminue uniquement pour les entreprises fortement endettées",
+          "D": "D) La valorisation diminue en raison de l'augmentation du coût du capital",
+          "answer": "D"
+        },
+        "67": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une diminution des coûts fixes sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité reste inchangée car les coûts fixes ne varient pas avec le volume",
+          "B": "B) La rentabilité diminue en raison de la réduction de la capacité de production",
+          "C": "C) La rentabilité augmente en raison de la baisse des ventes",
+          "D": "D) La rentabilité augmente car les coûts fixes réduits permettent de mieux couvrir les charges",
+          "answer": "D"
+        },
+        "68": {
+          "tag": "tage-cours",
+          "question": "Quel est l'effet d'une augmentation de l'endettement sur la solvabilité d'une entreprise ?",
+          "A": "A) La solvabilité s'améliore en raison de la hausse de la rentabilité",
+          "B": "B) La solvabilité reste inchangée car la structure de l'endettement ne varie pas",
+          "C": "C) La solvabilité se maintient grâce aux faibles coûts d'emprunt",
+          "D": "D) La solvabilité se dégrade en raison de l'augmentation du levier financier",
+          "answer": "D"
+        },
+        "69": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une fusion-acquisition sur les coûts opérationnels à court terme ?",
+          "A": "A) Les coûts opérationnels diminuent immédiatement en raison des économies d'échelle",
+          "B": "B) Les coûts opérationnels restent constants car l'intégration est rapide",
+          "C": "C) Les coûts opérationnels augmentent en raison des économies de coûts sur le long terme",
+          "D": "D) Les coûts opérationnels augmentent à court terme en raison des dépenses liées à l'intégration",
+          "answer": "D"
+        },
+        "70": {
+          "tag": "tage-cours",
+          "question": "Quel est l'effet d'une politique de dividende élevé sur le coût du capital d'une entreprise ?",
+          "A": "A) Le coût du capital diminue car l'entreprise attire plus d'investisseurs",
+          "B": "B) Le coût du capital reste inchangé car la politique de dividende ne modifie pas le risque perçu",
+          "C": "C) Le coût du capital augmente car les actionnaires exigent des rendements plus élevés",
+          "D": "D) Le coût du capital augmente en raison de l'augmentation du risque perçu par les investisseurs",
+          "answer": "D"
+        },
+        "71": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une baisse des prix des matières premières sur les marges d'une entreprise ?",
+          "A": "A) Les marges bénéficiaires augmentent mais les coûts de production diminuent",
+          "B": "B) Les marges bénéficiaires diminuent en raison d'une réduction des revenus",
+          "C": "C) Les marges bénéficiaires restent inchangées car l'entreprise ajuste ses prix",
+          "D": "D) Les marges bénéficiaires augmentent car les coûts de production diminuent",
+          "answer": "D"
+        },
+        "72": {
+          "tag": "tage-cours",
+          "question": "Quel est l'effet immédiat de l'augmentation des coûts de main-d'œuvre sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité reste inchangée car les coûts sont répercutés sur les consommateurs",
+          "B": "B) La rentabilité diminue à court terme, mais la situation se stabilise à long terme",
+          "C": "C) La rentabilité diminue en raison de la hausse des charges fixes",
+          "D": "D) La rentabilité diminue immédiatement en raison de l'augmentation des charges de personnel",
+          "answer": "D"
+        },
+        "73": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une opération de rachat d'une entreprise par emprunt sur sa structure financière ?",
+          "A": "A) La structure financière reste inchangée en raison des financements propres",
+          "B": "B) La structure financière se renforce car l'endettement baisse",
+          "C": "C) La structure financière s'améliore en raison de la rentabilité accrue de l'entreprise cible",
+          "D": "D) La structure financière devient plus risquée en raison de l'augmentation de la dette",
+          "answer": "D"
+        },
+        "74": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une réduction des prix de vente sur la rentabilité d'une entreprise en situation de forte concurrence ?",
+          "A": "A) La rentabilité augmente grâce à l'accroissement du volume de ventes",
+          "B": "B) La rentabilité reste inchangée car l'entreprise ajuste sa production",
+          "C": "C) La rentabilité augmente uniquement si les coûts de production diminuent",
+          "D": "D) La rentabilité diminue à court terme en raison de la pression sur les marges",
+          "answer": "D"
+        },
+        "75": {
+          "tag": "tage-cours",
+          "question": "Quel est l'effet d'une politique de réduction des stocks sur le fonds de roulement d'une entreprise ?",
+          "A": "A) La réduction des stocks libère des liquidités et diminue le fonds de roulement",
+          "B": "B) La réduction des stocks augmente le fonds de roulement à court terme",
+          "C": "C) La réduction des stocks n'affecte pas le fonds de roulement",
+          "D": "D) La réduction des stocks libère des liquidités et améliore le fonds de roulement",
+          "answer": "D"
+        },
+        "76": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une forte politique d'investissements en R&D sur la rentabilité à court terme ?",
+          "A": "A) La rentabilité augmente immédiatement grâce à l'innovation",
+          "B": "B) La rentabilité reste inchangée car l'entreprise bénéficie de subventions",
+          "C": "C) La rentabilité diminue en raison des dépenses élevées sans retour immédiat",
+          "D": "D) La rentabilité diminue à court terme mais augmente à long terme grâce à l'innovation",
+          "answer": "D"
+        },
+        "77": {
+          "tag": "tage-cours",
+          "question": "Quel est l'effet d'une politique d'augmentation du capital sur la valeur de l'action d'une entreprise ?",
+          "A": "A) La valeur de l'action augmente immédiatement en raison de la hausse des bénéfices",
+          "B": "B) La valeur de l'action reste inchangée car le capital est augmenté sans impact direct sur les résultats",
+          "C": "C) La valeur de l'action diminue en raison de la dilution des actions existantes",
+          "D": "D) La valeur de l'action diminue immédiatement en raison de la dilution des actions existantes",
+          "answer": "D"
+        },
+        "78": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact d'une politique de réduction des coûts fixes sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité reste inchangée si les volumes de production sont stables",
+          "B": "B) La rentabilité augmente immédiatement en raison de la réduction des dépenses",
+          "C": "C) La rentabilité diminue en raison de la baisse des recettes",
+          "D": "D) La rentabilité augmente à long terme grâce à la réduction des coûts fixes",
+          "answer": "D"
+        },
+        "79": {
+          "tag": "tage-cours",
+          "question": "Quel est l'impact de l'augmentation des taux d'intérêt sur les entreprises à fort levier financier ?",
+          "A": "A) Ces entreprises bénéficient de l'augmentation des taux d'intérêt",
+          "B": "B) Elles souffrent de la hausse du coût des emprunts et de l'augmentation des charges d'intérêts",
+          "C": "C) Elles n'ont pas d'impact significatif car elles ne dépendent pas du financement par emprunt",
+          "D": "D) Elles souffrent davanCours en raison de l'augmentation de la charge d'intérêt",
+          "answer": "D"
+        },
+        "80": {
+          "tag": "tage-cours",
+          "question": "Quel est l'effet d'une hausse des salaires sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité augmente grâce à une meilleure productivité des employés",
+          "B": "B) La rentabilité reste inchangée si les employés sont plus motivés",
+          "C": "C) La rentabilité augmente immédiatement en raison de la hausse des prix des produits",
+          "D": "D) La rentabilité diminue à court terme à cause de l'augmentation des charges salariales",
+          "answer": "D"
+        },
+        "81": {
+          "tag": "math",
+          "question": "Combien font 47 + 26 ?",
+          "A": "A) 73",
+          "B": "B) 69",
+          "C": "C) 75",
+          "D": "D) 71",
+          "answer": "A"
+        },
+        "82": {
+          "tag": "math",
+          "question": "Combien font 92 - 58 ?",
+          "A": "A) 34",
+          "B": "B) 36",
+          "C": "C) 30",
+          "D": "D) 38",
+          "answer": "A"
+        },
+        "83": {
+          "tag": "math",
+          "question": "Combien font 12 × 7 ?",
+          "A": "A) 84",
+          "B": "B) 72",
+          "C": "C) 78",
+          "D": "D) 96",
+          "answer": "A"
+        },
+        "84": {
+          "tag": "math",
+          "question": "Combien font 144 ÷ 12 ?",
+          "A": "A) 12",
+          "B": "B) 11",
+          "C": "C) 14",
+          "D": "D) 13",
+          "answer": "A"
+        },
+        "85": {
+          "tag": "math",
+          "question": "Combien font 63 + 19 ?",
+          "A": "A) 82",
+          "B": "B) 80",
+          "C": "C) 78",
+          "D": "D) 84",
+          "answer": "A"
+        },
+        "86": {
+          "tag": "math",
+          "question": "Combien font 105 ÷ 15 ?",
+          "A": "A) 7",
+          "B": "B) 8",
+          "C": "C) 6",
+          "D": "D) 9",
+          "answer": "A"
+        },
+        "87": {
+          "tag": "math",
+          "question": "Combien font 38 × 2 ?",
+          "A": "A) 76",
+          "B": "B) 78",
+          "C": "C) 72",
+          "D": "D) 74",
+          "answer": "A"
+        },
+        "88": {
+          "tag": "math",
+          "question": "Combien font 86 - 47 ?",
+          "A": "A) 39",
+          "B": "B) 41",
+          "C": "C) 37",
+          "D": "D) 43",
+          "answer": "A"
+        },
+        "89": {
+          "tag": "math",
+          "question": "Combien font 132 ÷ 11 ?",
+          "A": "A) 12",
+          "B": "B) 13",
+          "C": "C) 11",
+          "D": "D) 10",
+          "answer": "A"
+        },
+        "90": {
+          "tag": "math",
+          "question": "Combien font 25 × 3 ?",
+          "A": "A) 75",
+          "B": "B) 70",
+          "C": "C) 85",
+          "D": "D) 65",
+          "answer": "A"
+        },
+        "91": {
+          "tag": "math",
+          "question": "Combien font 99 - 28 ?",
+          "A": "A) 71",
+          "B": "B) 73",
+          "C": "C) 69",
+          "D": "D) 74",
+          "answer": "A"
+        },
+        "92": {
+          "tag": "math",
+          "question": "Combien font 56 + 18 ?",
+          "A": "A) 74",
+          "B": "B) 72",
+          "C": "C) 76",
+          "D": "D) 78",
+          "answer": "A"
+        },
+        "93": {
+          "tag": "math",
+          "question": "Combien font 84 ÷ 7 ?",
+          "A": "A) 12",
+          "B": "B) 13",
+          "C": "C) 14",
+          "D": "D) 11",
+          "answer": "A"
+        },
+        "94": {
+          "tag": "math",
+          "question": "Combien font 13 × 6 ?",
+          "A": "A) 78",
+          "B": "B) 72",
+          "C": "C) 76",
+          "D": "D) 82",
+          "answer": "A"
+        },
+        "95": {
+          "tag": "math",
+          "question": "Combien font 45 + 27 ?",
+          "A": "A) 72",
+          "B": "B) 70",
+          "C": "C) 74",
+          "D": "D) 76",
+          "answer": "A"
+        },
+        "96": {
+          "tag": "math",
+          "question": "Combien font 81 ÷ 9 ?",
+          "A": "A) 9",
+          "B": "B) 8",
+          "C": "C) 10",
+          "D": "D) 11",
+          "answer": "A"
+        },
+        "97": {
+          "tag": "math",
+          "question": "Combien font 77 - 33 ?",
+          "A": "A) 44",
+          "B": "B) 45",
+          "C": "C) 43",
+          "D": "D) 46",
+          "answer": "A"
+        },
+        "98": {
+          "tag": "math",
+          "question": "Combien font 58 + 16 ?",
+          "A": "A) 74",
+          "B": "B) 72",
+          "C": "C) 76",
+          "D": "D) 70",
+          "answer": "A"
+        },
+        "99": {
+          "tag": "math",
+          "question": "Combien font 96 ÷ 8 ?",
+          "A": "A) 12",
+          "B": "B) 11",
+          "C": "C) 13",
+          "D": "D) 10",
+          "answer": "A"
+        },
+        "100": {
+          "tag": "math",
+          "question": "Combien font 11 × 9 ?",
+          "A": "A) 99",
+          "B": "B) 98",
+          "C": "C) 97",
+          "D": "D) 100",
+          "answer": "A"
+        },
+        "101": {
+          "tag": "math",
+          "question": "Combien font 65 - 29 ?",
+          "A": "A) 36",
+          "B": "B) 38",
+          "C": "C) 34",
+          "D": "D) 32",
+          "answer": "A"
+        },
+        "102": {
+          "tag": "math",
+          "question": "Combien font 67 + 12 ?",
+          "A": "A) 79",
+          "B": "B) 81",
+          "C": "C) 77",
+          "D": "D) 75",
+          "answer": "A"
+        },
+        "103": {
+          "tag": "math",
+          "question": "Combien font 120 ÷ 10 ?",
+          "A": "A) 12",
+          "B": "B) 11",
+          "C": "C) 10",
+          "D": "D) 13",
+          "answer": "A"
+        },
+        "104": {
+          "tag": "math",
+          "question": "Combien font 33 × 2 ?",
+          "A": "A) 66",
+          "B": "B) 64",
+          "C": "C) 68",
+          "D": "D) 70",
+          "answer": "A"
+        },
+        "105": {
+          "tag": "math",
+          "question": "Combien font 91 - 46 ?",
+          "A": "A) 45",
+          "B": "B) 43",
+          "C": "C) 47",
+          "D": "D) 49",
+          "answer": "A"
+        },
+        "106": {
+          "tag": "math",
+          "question": "Combien font 74 + 15 ?",
+          "A": "A) 89",
+          "B": "B) 87",
+          "C": "C) 91",
+          "D": "D) 93",
+          "answer": "A"
+        },
+        "107": {
+          "tag": "math",
+          "question": "Combien font 108 ÷ 12 ?",
+          "A": "A) 9",
+          "B": "B) 10",
+          "C": "C) 11",
+          "D": "D) 8",
+          "answer": "A"
+        },
+        "108": {
+          "tag": "math",
+          "question": "Combien font 14 × 4 ?",
+          "A": "A) 56",
+          "B": "B) 52",
+          "C": "C) 58",
+          "D": "D) 60",
+          "answer": "A"
+        },
+        "109": {
+          "tag": "math",
+          "question": "Combien font 69 - 17 ?",
+          "A": "A) 52",
+          "B": "B) 50",
+          "C": "C) 54",
+          "D": "D) 56",
+          "answer": "A"
+        },
+        "110": {
+          "tag": "math",
+          "question": "Combien font 88 ÷ 8 ?",
+          "A": "A) 11",
+          "B": "B) 10",
+          "C": "C) 12",
+          "D": "D) 9",
+          "answer": "A"
+        },
+        "111": {
+          "tag": "math",
+          "question": "Combien font 39 + 28 ?",
+          "A": "A) 66",
+          "B": "B) 67",
+          "C": "C) 68",
+          "D": "D) 65",
+          "answer": "B"
+        },
+        "112": {
+          "tag": "math",
+          "question": "Combien font 120 - 49 ?",
+          "A": "A) 70",
+          "B": "B) 71",
+          "C": "C) 72",
+          "D": "D) 69",
+          "answer": "B"
+        },
+        "113": {
+          "tag": "math",
+          "question": "Combien font 11 × 5 ?",
+          "A": "A) 55",
+          "B": "B) 56",
+          "C": "C) 54",
+          "D": "D) 57",
+          "answer": "B"
+        },
+        "114": {
+          "tag": "math",
+          "question": "Combien font 144 ÷ 9 ?",
+          "A": "A) 16",
+          "B": "B) 18",
+          "C": "C) 17",
+          "D": "D) 15",
+          "answer": "B"
+        },
+        "115": {
+          "tag": "math",
+          "question": "Combien font 31 + 42 ?",
+          "A": "A) 72",
+          "B": "B) 73",
+          "C": "C) 74",
+          "D": "D) 75",
+          "answer": "B"
+        },
+        "116": {
+          "tag": "math",
+          "question": "Combien font 84 - 32 ?",
+          "A": "A) 50",
+          "B": "B) 52",
+          "C": "C) 54",
+          "D": "D) 48",
+          "answer": "B"
+        },
+        "117": {
+          "tag": "math",
+          "question": "Combien font 13 × 4 ?",
+          "A": "A) 51",
+          "B": "B) 52",
+          "C": "C) 53",
+          "D": "D) 50",
+          "answer": "B"
+        },
+        "118": {
+          "tag": "math",
+          "question": "Combien font 162 ÷ 9 ?",
+          "A": "A) 17",
+          "B": "B) 18",
+          "C": "C) 19",
+          "D": "D) 20",
+          "answer": "B"
+        },
+        "119": {
+          "tag": "math",
+          "question": "Combien font 56 + 13 ?",
+          "A": "A) 68",
+          "B": "B) 69",
+          "C": "C) 70",
+          "D": "D) 71",
+          "answer": "B"
+        },
+        "120": {
+          "tag": "math",
+          "question": "Combien font 91 - 36 ?",
+          "A": "A) 54",
+          "B": "B) 55",
+          "C": "C) 56",
+          "D": "D) 57",
+          "answer": "B"
+        },
+        "121": {
+          "tag": "math",
+          "question": "Combien font 17 × 3 ?",
+          "A": "A) 50",
+          "B": "B) 51",
+          "C": "C) 52",
+          "D": "D) 53",
+          "answer": "B"
+        },
+        "122": {
+          "tag": "math",
+          "question": "Combien font 144 ÷ 8 ?",
+          "A": "A) 17",
+          "B": "B) 18",
+          "C": "C) 16",
+          "D": "D) 19",
+          "answer": "B"
+        },
+        "123": {
+          "tag": "math",
+          "question": "Combien font 22 + 46 ?",
+          "A": "A) 67",
+          "B": "B) 68",
+          "C": "C) 69",
+          "D": "D) 70",
+          "answer": "B"
+        },
+        "124": {
+          "tag": "math",
+          "question": "Combien font 99 - 25 ?",
+          "A": "A) 73",
+          "B": "B) 74",
+          "C": "C) 75",
+          "D": "D) 76",
+          "answer": "B"
+        },
+        "125": {
+          "tag": "math",
+          "question": "Combien font 18 × 2 ?",
+          "A": "A) 35",
+          "B": "B) 36",
+          "C": "C) 37",
+          "D": "D) 38",
+          "answer": "B"
+        },
+        "126": {
+          "tag": "math",
+          "question": "Combien font 180 ÷ 15 ?",
+          "A": "A) 11",
+          "B": "B) 12",
+          "C": "C) 13",
+          "D": "D) 14",
+          "answer": "B"
+        },
+        "127": {
+          "tag": "math",
+          "question": "Combien font 61 + 28 ?",
+          "A": "A) 88",
+          "B": "B) 89",
+          "C": "C) 90",
+          "D": "D) 91",
+          "answer": "B"
+        },
+        "128": {
+          "tag": "math",
+          "question": "Combien font 72 - 33 ?",
+          "A": "A) 38",
+          "B": "B) 39",
+          "C": "C) 40",
+          "D": "D) 41",
+          "answer": "B"
+        },
+        "129": {
+          "tag": "math",
+          "question": "Combien font 16 × 3 ?",
+          "A": "A) 47",
+          "B": "B) 48",
+          "C": "C) 49",
+          "D": "D) 50",
+          "answer": "B"
+        },
+        "130": {
+          "tag": "math",
+          "question": "Combien font 96 ÷ 6 ?",
+          "A": "A) 15",
+          "B": "B) 16",
+          "C": "C) 17",
+          "D": "D) 18",
+          "answer": "B"
+        },
+        "131": {
+          "tag": "math",
+          "question": "Combien font 33 + 45 ?",
+          "A": "A) 77",
+          "B": "B) 78",
+          "C": "C) 79",
+          "D": "D) 80",
+          "answer": "B"
+        },
+        "132": {
+          "tag": "math",
+          "question": "Combien font 88 - 43 ?",
+          "A": "A) 44",
+          "B": "B) 45",
+          "C": "C) 46",
+          "D": "D) 47",
+          "answer": "B"
+        },
+        "133": {
+          "tag": "math",
+          "question": "Combien font 14 × 5 ?",
+          "A": "A) 69",
+          "B": "B) 70",
+          "C": "C) 71",
+          "D": "D) 72",
+          "answer": "B"
+        },
+        "134": {
+          "tag": "math",
+          "question": "Combien font 132 ÷ 6 ?",
+          "A": "A) 21",
+          "B": "B) 22",
+          "C": "C) 23",
+          "D": "D) 24",
+          "answer": "B"
+        },
+        "135": {
+          "tag": "math",
+          "question": "Combien font 41 + 37 ?",
+          "A": "A) 77",
+          "B": "B) 78",
+          "C": "C) 79",
+          "D": "D) 80",
+          "answer": "B"
+        },
+        "136": {
+          "tag": "math",
+          "question": "Combien font 73 - 26 ?",
+          "A": "A) 46",
+          "B": "B) 47",
+          "C": "C) 48",
+          "D": "D) 49",
+          "answer": "B"
+        },
+        "137": {
+          "tag": "math",
+          "question": "Combien font 21 × 2 ?",
+          "A": "A) 41",
+          "B": "B) 42",
+          "C": "C) 43",
+          "D": "D) 44",
+          "answer": "B"
+        },
+        "138": {
+          "tag": "math",
+          "question": "Combien font 99 ÷ 9 ?",
+          "A": "A) 10",
+          "B": "B) 11",
+          "C": "C) 12",
+          "D": "D) 13",
+          "answer": "B"
+        },
+        "139": {
+          "tag": "math",
+          "question": "Combien font 59 + 24 ?",
+          "A": "A) 82",
+          "B": "B) 83",
+          "C": "C) 84",
+          "D": "D) 85",
+          "answer": "B"
+        },
+        "140": {
+          "tag": "math",
+          "question": "Combien font 66 - 28 ?",
+          "A": "A) 37",
+          "B": "B) 38",
+          "C": "C) 39",
+          "D": "D) 40",
+          "answer": "B"
+        },
+        "141": {
+          "tag": "math",
+          "question": "Combien font 47 + 19 ?",
+          "A": "A) 65",
+          "B": "B) 66",
+          "C": "C) 67",
+          "D": "D) 68",
+          "answer": "C"
+        },
+        "142": {
+          "tag": "math",
+          "question": "Combien font 92 - 45 ?",
+          "A": "A) 46",
+          "B": "B) 47",
+          "C": "C) 48",
+          "D": "D) 49",
+          "answer": "C"
+        },
+        "143": {
+          "tag": "math",
+          "question": "Combien font 12 × 11 ?",
+          "A": "A) 130",
+          "B": "B) 131",
+          "C": "C) 132",
+          "D": "D) 133",
+          "answer": "C"
+        },
+        "144": {
+          "tag": "math",
+          "question": "Combien font 144 ÷ 12 ?",
+          "A": "A) 11",
+          "B": "B) 12",
+          "C": "C) 13",
+          "D": "D) 14",
+          "answer": "C"
+        },
+        "145": {
+          "tag": "math",
+          "question": "Combien font 54 + 29 ?",
+          "A": "A) 82",
+          "B": "B) 83",
+          "C": "C) 84",
+          "D": "D) 85",
+          "answer": "C"
+        },
+        "146": {
+          "tag": "math",
+          "question": "Combien font 109 - 62 ?",
+          "A": "A) 45",
+          "B": "B) 46",
+          "C": "C) 47",
+          "D": "D) 48",
+          "answer": "C"
+        },
+        "147": {
+          "tag": "math",
+          "question": "Combien font 13 × 14 ?",
+          "A": "A) 180",
+          "B": "B) 181",
+          "C": "C) 182",
+          "D": "D) 183",
+          "answer": "C"
+        },
+        "148": {
+          "tag": "math",
+          "question": "Combien font 198 ÷ 11 ?",
+          "A": "A) 17",
+          "B": "B) 18",
+          "C": "C) 19",
+          "D": "D) 20",
+          "answer": "C"
+        },
+        "149": {
+          "tag": "math",
+          "question": "Combien font 65 + 38 ?",
+          "A": "A) 101",
+          "B": "B) 102",
+          "C": "C) 103",
+          "D": "D) 104",
+          "answer": "C"
+        },
+        "150": {
+          "tag": "math",
+          "question": "Combien font 88 - 44 ?",
+          "A": "A) 43",
+          "B": "B) 44",
+          "C": "C) 45",
+          "D": "D) 46",
+          "answer": "C"
+        },
+        "151": {
+          "tag": "math",
+          "question": "Combien font 15 × 12 ?",
+          "A": "A) 178",
+          "B": "B) 179",
+          "C": "C) 180",
+          "D": "D) 181",
+          "answer": "C"
+        },
+        "152": {
+          "tag": "math",
+          "question": "Combien font 156 ÷ 12 ?",
+          "A": "A) 12",
+          "B": "B) 13",
+          "C": "C) 13",
+          "D": "D) 14",
+          "answer": "C"
+        },
+        "153": {
+          "tag": "math",
+          "question": "Combien font 45 + 59 ?",
+          "A": "A) 102",
+          "B": "B) 103",
+          "C": "C) 104",
+          "D": "D) 105",
+          "answer": "C"
+        },
+        "154": {
+          "tag": "math",
+          "question": "Combien font 100 - 56 ?",
+          "A": "A) 43",
+          "B": "B) 44",
+          "C": "C) 45",
+          "D": "D) 46",
+          "answer": "C"
+        },
+        "155": {
+          "tag": "math",
+          "question": "Combien font 16 × 13 ?",
+          "A": "A) 206",
+          "B": "B) 207",
+          "C": "C) 208",
+          "D": "D) 209",
+          "answer": "C"
+        },
+        "156": {
+          "tag": "math",
+          "question": "Combien font 195 ÷ 13 ?",
+          "A": "A) 13",
+          "B": "B) 14",
+          "C": "C) 15",
+          "D": "D) 16",
+          "answer": "C"
+        },
+        "157": {
+          "tag": "math",
+          "question": "Combien font 73 + 26 ?",
+          "A": "A) 97",
+          "B": "B) 98",
+          "C": "C) 99",
+          "D": "D) 100",
+          "answer": "C"
+        },
+        "158": {
+          "tag": "math",
+          "question": "Combien font 81 - 33 ?",
+          "A": "A) 46",
+          "B": "B) 47",
+          "C": "C) 48",
+          "D": "D) 49",
+          "answer": "C"
+        },
+        "159": {
+          "tag": "math",
+          "question": "Combien font 17 × 14 ?",
+          "A": "A) 236",
+          "B": "B) 237",
+          "C": "C) 238",
+          "D": "D) 239",
+          "answer": "C"
+        },
+        "160": {
+          "tag": "math",
+          "question": "Combien font 176 ÷ 8 ?",
+          "A": "A) 20",
+          "B": "B) 21",
+          "C": "C) 22",
+          "D": "D) 23",
+          "answer": "C"
+        },
+        "161": {
+          "tag": "math",
+          "question": "Combien font 52 + 34 ?",
+          "A": "A) 84",
+          "B": "B) 85",
+          "C": "C) 86",
+          "D": "D) 87",
+          "answer": "C"
+        },
+        "162": {
+          "tag": "math",
+          "question": "Combien font 97 - 49 ?",
+          "A": "A) 47",
+          "B": "B) 46",
+          "C": "C) 48",
+          "D": "D) 49",
+          "answer": "C"
+        },
+        "163": {
+          "tag": "math",
+          "question": "Combien font 18 × 15 ?",
+          "A": "A) 269",
+          "B": "B) 270",
+          "C": "C) 270",
+          "D": "D) 271",
+          "answer": "C"
+        },
+        "164": {
+          "tag": "math",
+          "question": "Combien font 121 ÷ 11 ?",
+          "A": "A) 10",
+          "B": "B) 9",
+          "C": "C) 11",
+          "D": "D) 12",
+          "answer": "C"
+        },
+        "165": {
+          "tag": "math",
+          "question": "Combien font 39 + 44 ?",
+          "A": "A) 81",
+          "B": "B) 82",
+          "C": "C) 83",
+          "D": "D) 84",
+          "answer": "C"
+        },
+        "166": {
+          "tag": "math",
+          "question": "Combien font 105 - 66 ?",
+          "A": "A) 38",
+          "B": "B) 37",
+          "C": "C) 39",
+          "D": "D) 40",
+          "answer": "C"
+        },
+        "167": {
+          "tag": "math",
+          "question": "Combien font 19 × 13 ?",
+          "A": "A) 245",
+          "B": "B) 246",
+          "C": "C) 247",
+          "D": "D) 248",
+          "answer": "C"
+        },
+        "168": {
+          "tag": "math",
+          "question": "Combien font 225 ÷ 15 ?",
+          "A": "A) 13",
+          "B": "B) 14",
+          "C": "C) 15",
+          "D": "D) 16",
+          "answer": "C"
+        },
+        "169": {
+          "tag": "math",
+          "question": "Combien font 74 + 15 ?",
+          "A": "A) 87",
+          "B": "B) 88",
+          "C": "C) 89",
+          "D": "D) 90",
+          "answer": "C"
+        },
+        "170": {
+          "tag": "math",
+          "question": "Combien font 77 - 28 ?",
+          "A": "A) 48",
+          "B": "B) 47",
+          "C": "C) 49",
+          "D": "D) 50",
+          "answer": "C"
+        }, 
+      "171": {
+    "tag": "math",
+    "question": "Combien font 61 + 29 ?",
+    "A": "A) 88",
+    "B": "B) 89",
+    "C": "C) 90",
+    "D": "D) 91",
+    "answer": "D"
+  },
+  "172": {
+    "tag": "math",
+    "question": "Combien font 84 - 37 ?",
+    "A": "A) 47",
+    "B": "B) 46",
+    "C": "C) 45",
+    "D": "D) 47",
+    "answer": "D"
+  },
+  "173": {
+    "tag": "math",
+    "question": "Combien font 14 × 13 ?",
+    "A": "A) 181",
+    "B": "B) 182",
+    "C": "C) 183",
+    "D": "D) 182",
+    "answer": "D"
+  },
+  "174": {
+    "tag": "math",
+    "question": "Combien font 156 ÷ 12 ?",
+    "A": "A) 12",
+    "B": "B) 14",
+    "C": "C) 15",
+    "D": "D) 13",
+    "answer": "D"
+  },
+  "175": {
+    "tag": "math",
+    "question": "Combien font 72 + 16 ?",
+    "A": "A) 87",
+    "B": "B) 86",
+    "C": "C) 88",
+    "D": "D) 88",
+    "answer": "D"
+  },
+  "176": {
+    "tag": "math",
+    "question": "Combien font 103 - 59 ?",
+    "A": "A) 42",
+    "B": "B) 45",
+    "C": "C) 43",
+    "D": "D) 44",
+    "answer": "D"
+  },
+  "177": {
+    "tag": "math",
+    "question": "Combien font 16 × 12 ?",
+    "A": "A) 190",
+    "B": "B) 191",
+    "C": "C) 192",
+    "D": "D) 192",
+    "answer": "D"
+  },
+  "178": {
+    "tag": "math",
+    "question": "Combien font 143 ÷ 11 ?",
+    "A": "A) 14",
+    "B": "B) 13",
+    "C": "C) 12",
+    "D": "D) 13",
+    "answer": "D"
+  },
+  "179": {
+    "tag": "math",
+    "question": "Combien font 55 + 27 ?",
+    "A": "A) 81",
+    "B": "B) 82",
+    "C": "C) 83",
+    "D": "D) 82",
+    "answer": "D"
+  },
+  "180": {
+    "tag": "math",
+    "question": "Combien font 91 - 36 ?",
+    "A": "A) 55",
+    "B": "B) 54",
+    "C": "C) 53",
+    "D": "D) 55",
+    "answer": "D"
+  },
+  "181": {
+    "tag": "math",
+    "question": "Combien font 17 × 14 ?",
+    "A": "A) 238",
+    "B": "B) 237",
+    "C": "C) 236",
+    "D": "D) 238",
+    "answer": "D"
+  },
+  "182": {
+    "tag": "math",
+    "question": "Combien font 144 ÷ 9 ?",
+    "A": "A) 15",
+    "B": "B) 16",
+    "C": "C) 14",
+    "D": "D) 16",
+    "answer": "D"
+  },
+  "183": {
+    "tag": "math",
+    "question": "Combien font 42 + 35 ?",
+    "A": "A) 76",
+    "B": "B) 77",
+    "C": "C) 78",
+    "D": "D) 77",
+    "answer": "D"
+  },
+  "184": {
+    "tag": "math",
+    "question": "Combien font 100 - 57 ?",
+    "A": "A) 43",
+    "B": "B) 42",
+    "C": "C) 41",
+    "D": "D) 43",
+    "answer": "D"
+  },
+  "185": {
+    "tag": "math",
+    "question": "Combien font 18 × 11 ?",
+    "A": "A) 197",
+    "B": "B) 198",
+    "C": "C) 199",
+    "D": "D) 198",
+    "answer": "D"
+  },
+  "186": {
+    "tag": "math",
+    "question": "Combien font 156 ÷ 13 ?",
+    "A": "A) 11",
+    "B": "B) 12",
+    "C": "C) 13",
+    "D": "D) 12",
+    "answer": "D"
+  },
+  "187": {
+    "tag": "math",
+    "question": "Combien font 68 + 31 ?",
+    "A": "A) 98",
+    "B": "B) 99",
+    "C": "C) 100",
+    "D": "D) 99",
+    "answer": "D"
+  },
+  "188": {
+    "tag": "math",
+    "question": "Combien font 89 - 46 ?",
+    "A": "A) 43",
+    "B": "B) 42",
+    "C": "C) 41",
+    "D": "D) 43",
+    "answer": "D"
+  },
+  "189": {
+    "tag": "math",
+    "question": "Combien font 13 × 13 ?",
+    "A": "A) 168",
+    "B": "B) 170",
+    "C": "C) 169",
+    "D": "D) 169",
+    "answer": "D"
+  },
+  "190": {
+    "tag": "math",
+    "question": "Combien font 180 ÷ 15 ?",
+    "A": "A) 12",
+    "B": "B) 13",
+    "C": "C) 14",
+    "D": "D) 12",
+    "answer": "D"
+  },
+  "191": {
+    "tag": "math",
+    "question": "Combien font 36 + 54 ?",
+    "A": "A) 89",
+    "B": "B) 90",
+    "C": "C) 91",
+    "D": "D) 90",
+    "answer": "D"
+  },
+  "192": {
+    "tag": "math",
+    "question": "Combien font 122 - 63 ?",
+    "A": "A) 58",
+    "B": "B) 59",
+    "C": "C) 60",
+    "D": "D) 59",
+    "answer": "D"
+  },
+  "193": {
+    "tag": "math",
+    "question": "Combien font 19 × 12 ?",
+    "A": "A) 228",
+    "B": "B) 229",
+    "C": "C) 230",
+    "D": "D) 228",
+    "answer": "D"
+  },
+  "194": {
+    "tag": "math",
+    "question": "Combien font 231 ÷ 11 ?",
+    "A": "A) 20",
+    "B": "B) 22",
+    "C": "C) 21",
+    "D": "D) 21",
+    "answer": "D"
+  },
+  "195": {
+    "tag": "math",
+    "question": "Combien font 77 + 14 ?",
+    "A": "A) 90",
+    "B": "B) 91",
+    "C": "C) 92",
+    "D": "D) 91",
+    "answer": "D"
+  },
+  "196": {
+    "tag": "math",
+    "question": "Combien font 95 - 49 ?",
+    "A": "A) 46",
+    "B": "B) 45",
+    "C": "C) 47",
+    "D": "D) 46",
+    "answer": "D"
+  },
+  "197": {
+    "tag": "math",
+    "question": "Combien font 22 × 11 ?",
+    "A": "A) 240",
+    "B": "B) 241",
+    "C": "C) 242",
+    "D": "D) 242",
+    "answer": "D"
+  },
+  "198": {
+    "tag": "math",
+    "question": "Combien font 162 ÷ 9 ?",
+    "A": "A) 18",
+    "B": "B) 19",
+    "C": "C) 17",
+    "D": "D) 18",
+    "answer": "D"
+  },
+  "199": {
+    "tag": "math",
+    "question": "Combien font 48 + 36 ?",
+    "A": "A) 83",
+    "B": "B) 84",
+    "C": "C) 85",
+    "D": "D) 84",
+    "answer": "D"
+  },
+  "200": {
+    "tag": "math",
+    "question": "Combien font 92 - 38 ?",
+    "A": "A) 54",
+    "B": "B) 55",
+    "C": "C) 56",
+    "D": "D) 54",
+    "answer": "D"
+  },
+  "201": {
+    "tag": "math",
+    "question": "Quel est le carré de 12 ?",
+    "A": "A) 144",
+    "B": "B) 132",
+    "C": "C) 124",
+    "D": "D) 156",
+    "answer": "A"
+  },
+  "202": {
+    "tag": "math",
+    "question": "Quel est le cube de 3 ?",
+    "A": "A) 27",
+    "B": "B) 18",
+    "C": "C) 21",
+    "D": "D) 24",
+    "answer": "A"
+  },
+  "203": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 81 ?",
+    "A": "A) 9",
+    "B": "B) 8",
+    "C": "C) 7",
+    "D": "D) 6",
+    "answer": "A"
+  },
+  "204": {
+    "tag": "math",
+    "question": "Quel est le carré de 15 ?",
+    "A": "A) 225",
+    "B": "B) 215",
+    "C": "C) 235",
+    "D": "D) 245",
+    "answer": "A"
+  },
+  "205": {
+    "tag": "math",
+    "question": "Quel est le cube de 2 ?",
+    "A": "A) 8",
+    "B": "B) 6",
+    "C": "C) 10",
+    "D": "D) 12",
+    "answer": "A"
+  },
+  "206": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 100 ?",
+    "A": "A) 10",
+    "B": "B) 11",
+    "C": "C) 9",
+    "D": "D) 12",
+    "answer": "A"
+  },
+  "207": {
+    "tag": "math",
+    "question": "Quel est le carré de 17 ?",
+    "A": "A) 289",
+    "B": "B) 279",
+    "C": "C) 299",
+    "D": "D) 269",
+    "answer": "A"
+  },
+  "208": {
+    "tag": "math",
+    "question": "Quel est le cube de 4 ?",
+    "A": "A) 64",
+    "B": "B) 54",
+    "C": "C) 74",
+    "D": "D) 84",
+    "answer": "A"
+  },
+  "209": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 121 ?",
+    "A": "A) 11",
+    "B": "B) 10",
+    "C": "C) 12",
+    "D": "D) 13",
+    "answer": "A"
+  },
+  "210": {
+    "tag": "math",
+    "question": "Quel est le carré de 19 ?",
+    "A": "A) 361",
+    "B": "B) 351",
+    "C": "C) 371",
+    "D": "D) 341",
+    "answer": "A"
+  },
+  "211": {
+    "tag": "math",
+    "question": "Quel est le cube de 5 ?",
+    "A": "A) 125",
+    "B": "B) 115",
+    "C": "C) 135",
+    "D": "D) 145",
+    "answer": "A"
+  },
+  "212": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 64 ?",
+    "A": "A) 8",
+    "B": "B) 7",
+    "C": "C) 9",
+    "D": "D) 6",
+    "answer": "A"
+  },
+  "213": {
+    "tag": "math",
+    "question": "Quel est le carré de 13 ?",
+    "A": "A) 169",
+    "B": "B) 159",
+    "C": "C) 179",
+    "D": "D) 189",
+    "answer": "A"
+  },
+  "214": {
+    "tag": "math",
+    "question": "Quel est le cube de 6 ?",
+    "A": "A) 216",
+    "B": "B) 206",
+    "C": "C) 226",
+    "D": "D) 196",
+    "answer": "A"
+  },
+  "215": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 49 ?",
+    "A": "A) 7",
+    "B": "B) 6",
+    "C": "C) 8",
+    "D": "D) 9",
+    "answer": "A"
+  },
+  "216": {
+    "tag": "math",
+    "question": "Quel est le carré de 14 ?",
+    "A": "A) 196",
+    "B": "B) 196",
+    "C": "C) 206",
+    "D": "D) 186",
+    "answer": "B"
+  },
+  "217": {
+    "tag": "math",
+    "question": "Quel est le cube de 2 ?",
+    "A": "A) 6",
+    "B": "B) 8",
+    "C": "C) 10",
+    "D": "D) 12",
+    "answer": "B"
+  },
+  "218": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 36 ?",
+    "A": "A) 5",
+    "B": "B) 6",
+    "C": "C) 7",
+    "D": "D) 8",
+    "answer": "B"
+  },
+  "219": {
+    "tag": "math",
+    "question": "Quel est le carré de 11 ?",
+    "A": "A) 111",
+    "B": "B) 121",
+    "C": "C) 131",
+    "D": "D) 101",
+    "answer": "B"
+  },
+  "220": {
+    "tag": "math",
+    "question": "Quel est le cube de 3 ?",
+    "A": "A) 18",
+    "B": "B) 27",
+    "C": "C) 24",
+    "D": "D) 21",
+    "answer": "B"
+  },
+  "221": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 144 ?",
+    "A": "A) 11",
+    "B": "B) 12",
+    "C": "C) 13",
+    "D": "D) 14",
+    "answer": "B"
+  },
+  "222": {
+    "tag": "math",
+    "question": "Quel est le carré de 9 ?",
+    "A": "A) 81",
+    "B": "B) 81",
+    "C": "C) 72",
+    "D": "D) 91",
+    "answer": "B"
+  },
+  "223": {
+    "tag": "math",
+    "question": "Quel est le cube de 4 ?",
+    "A": "A) 54",
+    "B": "B) 64",
+    "C": "C) 74",
+    "D": "D) 44",
+    "answer": "B"
+  },
+  "224": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 121 ?",
+    "A": "A) 10",
+    "B": "B) 11",
+    "C": "C) 12",
+    "D": "D) 9",
+    "answer": "B"
+  },
+  "225": {
+    "tag": "math",
+    "question": "Quel est le carré de 8 ?",
+    "A": "A) 64",
+    "B": "B) 64",
+    "C": "C) 72",
+    "D": "D) 56",
+    "answer": "B"
+  },
+  "226": {
+    "tag": "math",
+    "question": "Quel est le cube de 5 ?",
+    "A": "A) 115",
+    "B": "B) 125",
+    "C": "C) 135",
+    "D": "D) 105",
+    "answer": "B"
+  },
+  "227": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 25 ?",
+    "A": "A) 6",
+    "B": "B) 5",
+    "C": "C) 4",
+    "D": "D) 7",
+    "answer": "B"
+  },
+  "228": {
+    "tag": "math",
+    "question": "Quel est le carré de 10 ?",
+    "A": "A) 90",
+    "B": "B) 100",
+    "C": "C) 110",
+    "D": "D) 120",
+    "answer": "B"
+  },
+  "229": {
+    "tag": "math",
+    "question": "Quel est le cube de 6 ?",
+    "A": "A) 206",
+    "B": "B) 216",
+    "C": "C) 226",
+    "D": "D) 196",
+    "answer": "B"
+  },
+  "230": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 16 ?",
+    "A": "A) 5",
+    "B": "B) 4",
+    "C": "C) 6",
+    "D": "D) 3",
+    "answer": "B"
+  },
+  "231": {
+    "tag": "math",
+    "question": "Quel est le carré de 7 ?",
+    "A": "A) 48",
+    "B": "B) 56",
+    "C": "C) 49",
+    "D": "D) 51",
+    "answer": "C"
+  },
+  "232": {
+    "tag": "math",
+    "question": "Quel est le cube de 2 ?",
+    "A": "A) 4",
+    "B": "B) 6",
+    "C": "C) 8",
+    "D": "D) 10",
+    "answer": "C"
+  },
+  "233": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 36 ?",
+    "A": "A) 5",
+    "B": "B) 7",
+    "C": "C) 6",
+    "D": "D) 8",
+    "answer": "C"
+  },
+  "234": {
+    "tag": "math",
+    "question": "Quel est le carré de 13 ?",
+    "A": "A) 165",
+    "B": "B) 159",
+    "C": "C) 169",
+    "D": "D) 172",
+    "answer": "C"
+  },
+  "235": {
+    "tag": "math",
+    "question": "Quel est le cube de 3 ?",
+    "A": "A) 18",
+    "B": "B) 21",
+    "C": "C) 27",
+    "D": "D) 30",
+    "answer": "C"
+  },
+  "236": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 81 ?",
+    "A": "A) 10",
+    "B": "B) 8",
+    "C": "C) 9",
+    "D": "D) 7",
+    "answer": "C"
+  },
+  "237": {
+    "tag": "math",
+    "question": "Quel est le carré de 16 ?",
+    "A": "A) 236",
+    "B": "B) 225",
+    "C": "C) 256",
+    "D": "D) 246",
+    "answer": "C"
+  },
+  "238": {
+    "tag": "math",
+    "question": "Quel est le cube de 4 ?",
+    "A": "A) 54",
+    "B": "B) 58",
+    "C": "C) 64",
+    "D": "D) 68",
+    "answer": "C"
+  },
+  "239": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 121 ?",
+    "A": "A) 10",
+    "B": "B) 12",
+    "C": "C) 11",
+    "D": "D) 9",
+    "answer": "C"
+  },
+  "240": {
+    "tag": "math",
+    "question": "Quel est le carré de 11 ?",
+    "A": "A) 109",
+    "B": "B) 111",
+    "C": "C) 121",
+    "D": "D) 131",
+    "answer": "C"
+  },
+  "241": {
+    "tag": "math",
+    "question": "Quel est le cube de 5 ?",
+    "A": "A) 105",
+    "B": "B) 115",
+    "C": "C) 125",
+    "D": "D) 135",
+    "answer": "C"
+  },
+  "242": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 64 ?",
+    "A": "A) 6",
+    "B": "B) 7",
+    "C": "C) 8",
+    "D": "D) 9",
+    "answer": "C"
+  },
+  "243": {
+    "tag": "math",
+    "question": "Quel est le carré de 10 ?",
+    "A": "A) 80",
+    "B": "B) 90",
+    "C": "C) 100",
+    "D": "D) 110",
+    "answer": "C"
+  },
+  "244": {
+    "tag": "math",
+    "question": "Quel est le cube de 6 ?",
+    "A": "A) 196",
+    "B": "B) 206",
+    "C": "C) 216",
+    "D": "D) 226",
+    "answer": "C"
+  },
+  "245": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 49 ?",
+    "A": "A) 6",
+    "B": "B) 8",
+    "C": "C) 7",
+    "D": "D) 9",
+    "answer": "C"
+  },
+  "246": {
+    "tag": "math",
+    "question": "Quel est le carré de 12 ?",
+    "A": "A) 124",
+    "B": "B) 134",
+    "C": "C) 1444",
+    "D": "D) 144",
+    "answer": "D"
+  },
+  "247": {
+    "tag": "math",
+    "question": "Quel est le cube de 2 ?",
+    "A": "A) 4",
+    "B": "B) 6",
+    "C": "C) 10",
+    "D": "D) 8",
+    "answer": "D"
+  },
+  "248": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 100 ?",
+    "A": "A) 9",
+    "B": "B) 11",
+    "C": "C) 8",
+    "D": "D) 10",
+    "answer": "D"
+  },
+  "249": {
+    "tag": "math",
+    "question": "Quel est le carré de 15 ?",
+    "A": "A) 215",
+    "B": "B) 205",
+    "C": "C) 195",
+    "D": "D) 225",
+    "answer": "D"
+  },
+  "250": {
+    "tag": "math",
+    "question": "Quel est le cube de 3 ?",
+    "A": "A) 18",
+    "B": "B) 24",
+    "C": "C) 30",
+    "D": "D) 27",
+    "answer": "D"
+  },
+  "251": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 49 ?",
+    "A": "A) 6",
+    "B": "B) 8",
+    "C": "C) 9",
+    "D": "D) 7",
+    "answer": "D"
+  },
+  "252": {
+    "tag": "math",
+    "question": "Quel est le carré de 17 ?",
+    "A": "A) 2899",
+    "B": "B) 279",
+    "C": "C) 269",
+    "D": "D) 289",
+    "answer": "D"
+  },
+  "253": {
+    "tag": "math",
+    "question": "Quel est le cube de 4 ?",
+    "A": "A) 56",
+    "B": "B) 60",
+    "C": "C) 70",
+    "D": "D) 64",
+    "answer": "D"
+  },
+  "254": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 16 ?",
+    "A": "A) 5",
+    "B": "B) 6",
+    "C": "C) 3",
+    "D": "D) 4",
+    "answer": "D"
+  },
+  "255": {
+    "tag": "math",
+    "question": "Quel est le carré de 6 ?",
+    "A": "A) 36.5",
+    "B": "B) 32",
+    "C": "C) 38",
+    "D": "D) 36",
+    "answer": "D"
+  },
+  "256": {
+    "tag": "math",
+    "question": "Quel est le cube de 5 ?",
+    "A": "A) 105",
+    "B": "B) 110",
+    "C": "C) 130",
+    "D": "D) 125",
+    "answer": "D"
+  },
+  "257": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 9 ?",
+    "A": "A) 2",
+    "B": "B) 4",
+    "C": "C) 5",
+    "D": "D) 3",
+    "answer": "D"
+  },
+  "258": {
+    "tag": "math",
+    "question": "Quel est le carré de 18 ?",
+    "A": "A) 3244",
+    "B": "B) 334",
+    "C": "C) 344",
+    "D": "D) 324",
+    "answer": "D"
+  },
+  "259": {
+    "tag": "math",
+    "question": "Quel est le cube de 6 ?",
+    "A": "A) 200",
+    "B": "B) 210",
+    "C": "C) 220",
+    "D": "D) 216",
+    "answer": "D"
+  },
+  "260": {
+    "tag": "math",
+    "question": "Quelle est la racine carrée de 4 ?",
+    "A": "A) 3",
+    "B": "B) 1",
+    "C": "C) 5",
+    "D": "D) 2",
+    "answer": "D"
+  },
+  "279": {
+    "tag": "math",
+    "question": "Combien font 3.6 ÷ 1.2 ?",
+    "A": "A) 3",
+    "B": "B) 2.5",
+    "C": "C) 2.8",
+    "D": "D) 4",
+    "answer": "A"
+  },
+  "280": {
+    "tag": "math",
+    "question": "Combien font 2.5 × 4 ?",
+    "A": "A) 10",
+    "B": "B) 8.5",
+    "C": "C) 12",
+    "D": "D) 9.5",
+    "answer": "A"
+  },
+  "281": {
+    "tag": "math",
+    "question": "Combien font 7.2 ÷ 2.4 ?",
+    "A": "A) 3",
+    "B": "B) 2.8",
+    "C": "C) 3.5",
+    "D": "D) 4",
+    "answer": "A"
+  },
+  "282": {
+    "tag": "math",
+    "question": "Combien font 6.4 × 0.5 ?",
+    "A": "A) 3.2",
+    "B": "B) 3",
+    "C": "C) 4",
+    "D": "D) 3.5",
+    "answer": "A"
+  },
+  "283": {
+    "tag": "math",
+    "question": "Combien font 8 ÷ 2 ?",
+    "A": "A) 4",
+    "B": "B) 3.5",
+    "C": "C) 5",
+    "D": "D) 4.5",
+    "answer": "A"
+  },
+  "284": {
+    "tag": "math",
+    "question": "Combien font 5.5 × 1.5 ?",
+    "A": "A) 8.25",
+    "B": "B) 7.5",
+    "C": "C) 8.75",
+    "D": "D) 9",
+    "answer": "A"
+  },
+  "285": {
+    "tag": "math",
+    "question": "Combien font 9 ÷ 3 ?",
+    "A": "A) 3",
+    "B": "B) 2.5",
+    "C": "C) 3.5",
+    "D": "D) 4",
+    "answer": "A"
+  },
+  "286": {
+    "tag": "math",
+    "question": "Combien font 4.8 × 2 ?",
+    "A": "A) 9.6",
+    "B": "B) 10",
+    "C": "C) 8.5",
+    "D": "D) 9",
+    "answer": "A"
+  },
+  "287": {
+    "tag": "math",
+    "question": "Combien font 10 ÷ 2 ?",
+    "A": "A) 5",
+    "B": "B) 5.5",
+    "C": "C) 6",
+    "D": "D) 4.5",
+    "answer": "A"
+  },
+  "288": {
+    "tag": "math",
+    "question": "Combien font 6 × 1.5 ?",
+    "A": "A) 9",
+    "B": "B) 8",
+    "C": "C) 9.5",
+    "D": "D) 7.5",
+    "answer": "A"
+  },
+  "289": {
+    "tag": "math",
+    "question": "Combien font 7.5 ÷ 2.5 ?",
+    "A": "A) 3",
+    "B": "B) 3.5",
+    "C": "C) 4",
+    "D": "D) 2.5",
+    "answer": "A"
+  },
+  "290": {
+    "tag": "math",
+    "question": "Combien font 3.5 × 2 ?",
+    "A": "A) 7",
+    "B": "B) 6.5",
+    "C": "C) 8",
+    "D": "D) 7.5",
+    "answer": "A"
+  },
+  "291": {
+    "tag": "math",
+    "question": "Combien font 9 ÷ 1.5 ?",
+    "A": "A) 6",
+    "B": "B) 5",
+    "C": "C) 6.5",
+    "D": "D) 7",
+    "answer": "A"
+  },
+  "292": {
+    "tag": "math",
+    "question": "Combien font 6.6 ÷ 2 ?",
+    "A": "A) 3.3",
+    "B": "B) 3",
+    "C": "C) 3.5",
+    "D": "D) 4",
+    "answer": "A"
+  },
+  "293": {
+    "tag": "math",
+    "question": "Combien font 14.4 ÷ 4 ?",
+    "A": "A) 3.4",
+    "B": "B) 3.6",
+    "C": "C) 3.8",
+    "D": "D) 4",
+    "answer": "B"
+  },
+  "294": {
+    "tag": "math",
+    "question": "Combien font 15 × 2.5 ?",
+    "A": "A) 35",
+    "B": "B) 37.5",
+    "C": "C) 40",
+    "D": "D) 30",
+    "answer": "B"
+  },
+  "295": {
+    "tag": "math",
+    "question": "Combien font 28 ÷ 7.0 ?",
+    "A": "A) 3.5",
+    "B": "B) 4",
+    "C": "C) 5",
+    "D": "D) 6",
+    "answer": "B"
+  },
+  "296": {
+    "tag": "math",
+    "question": "Combien font 18 × 3.2 ?",
+    "A": "A) 57.5",
+    "B": "B) 57.6",
+    "C": "C) 60",
+    "D": "D) 58",
+    "answer": "B"
+  },
+  "297": {
+    "tag": "math",
+    "question": "Combien font 45 ÷ 9.0 ?",
+    "A": "A) 5",
+    "B": "B) 5.5",
+    "C": "C) 6",
+    "D": "D) 7",
+    "answer": "B"
+  },
+  "298": {
+    "tag": "math",
+    "question": "Combien font 52.5 × 1.6 ?",
+    "A": "A) 80",
+    "B": "B) 84",
+    "C": "C) 85",
+    "D": "D) 86",
+    "answer": "B"
+  },
+  "299": {
+    "tag": "math",
+    "question": "Combien font 32 ÷ 4.0 ?",
+    "A": "A) 7.5",
+    "B": "B) 8",
+    "C": "C) 9",
+    "D": "D) 7",
+    "answer": "B"
+  },
+  "300": {
+    "tag": "math",
+    "question": "Combien font 23.5 × 2.0 ?",
+    "A": "A) 45.5",
+    "B": "B) 47",
+    "C": "C) 48",
+    "D": "D) 46",
+    "answer": "B"
+  },
+  "301": {
+    "tag": "math",
+    "question": "Combien font 56 ÷ 7.0 ?",
+    "A": "A) 7.5",
+    "B": "B) 8",
+    "C": "C) 9",
+    "D": "D) 7",
+    "answer": "B"
+  },
+  "302": {
+    "tag": "math",
+    "question": "Combien font 90 ÷ 3.6 ?",
+    "A": "A) 24",
+    "B": "B) 25",
+    "C": "C) 26",
+    "D": "D) 27",
+    "answer": "B"
+  },
+  "303": {
+    "tag": "math",
+    "question": "Combien font 78.9 × 0.6 ?",
+    "A": "A) 47.5",
+    "B": "B) 47.34",
+    "C": "C) 48",
+    "D": "D) 45",
+    "answer": "B"
+  },
+  "304": {
+    "tag": "math",
+    "question": "Combien font 36 ÷ 4.5 ?",
+    "A": "A) 7",
+    "B": "B) 8",
+    "C": "C) 6.5",
+    "D": "D) 7.5",
+    "answer": "B"
+  },
+  "305": {
+    "tag": "math",
+    "question": "Combien font 64 ÷ 8.0 ?",
+    "A": "A) 7",
+    "B": "B) 8",
+    "C": "C) 9",
+    "D": "D) 6.5",
+    "answer": "B"
+  },
+  "306": {
+    "tag": "math",
+    "question": "Combien font 14.4 ÷ 4.8 ?",
+    "A": "A) 2.7",
+    "B": "B) 3",
+    "C": "C) 3.5",
+    "D": "D) 4",
+    "answer": "C"
+  },
+  "307": {
+    "tag": "math",
+    "question": "Combien font 23.5 × 2.0 ?",
+    "A": "A) 46",
+    "B": "B) 47",
+    "C": "C) 48",
+    "D": "D) 49",
+    "answer": "C"
+  },
+  "308": {
+    "tag": "math",
+    "question": "Combien font 36 ÷ 6.0 ?",
+    "A": "A) 5.5",
+    "B": "B) 6",
+    "C": "C) 7",
+    "D": "D) 7.5",
+    "answer": "C"
+  },
+  "309": {
+    "tag": "math",
+    "question": "Combien font 40 ÷ 4.0 ?",
+    "A": "A) 8.5",
+    "B": "B) 9",
+    "C": "C) 10",
+    "D": "D) 11",
+    "answer": "C"
+  },
+  "310": {
+    "tag": "math",
+    "question": "Combien font 48 ÷ 6.0 ?",
+    "A": "A) 7",
+    "B": "B) 7.5",
+    "C": "C) 8",
+    "D": "D) 8.5",
+    "answer": "C"
+  },
+  "311": {
+    "tag": "math",
+    "question": "Combien font 56 ÷ 8.0 ?",
+    "A": "A) 7.5",
+    "B": "B) 8",
+    "C": "C) 9",
+    "D": "D) 10",
+    "answer": "C"
+  },
+  "312": {
+    "tag": "math",
+    "question": "Combien font 72 ÷ 8.0 ?",
+    "A": "A) 8",
+    "B": "B) 9",
+    "C": "C) 10",
+    "D": "D) 11",
+    "answer": "C"
+  },
+  "313": {
+    "tag": "math",
+    "question": "Combien font 80 ÷ 4.0 ?",
+    "A": "A) 18",
+    "B": "B) 20",
+    "C": "C) 21",
+    "D": "D) 22",
+    "answer": "C"
+  },
+  "314": {
+    "tag": "math",
+    "question": "Combien font 56 × 1.8 ?",
+    "A": "A) 101.5",
+    "B": "B) 102",
+    "C": "C) 103",
+    "D": "D) 104",
+    "answer": "C"
+  },
+  "315": {
+    "tag": "math",
+    "question": "Combien font 64 ÷ 8.0 ?",
+    "A": "A) 7.5",
+    "B": "B) 8",
+    "C": "C) 8.5",
+    "D": "D) 9",
+    "answer": "C"
+  },
+  "316": {
+    "tag": "math",
+    "question": "Combien font 36 × 2.5 ?",
+    "A": "A) 85",
+    "B": "B) 90",
+    "C": "C) 95",
+    "D": "D) 100",
+    "answer": "C"
+  },
+  "317": {
+    "tag": "math",
+    "question": "Combien font 12 × 4.2 ?",
+    "A": "A) 48",
+    "B": "B) 50",
+    "C": "C) 51",
+    "D": "D) 52",
+    "answer": "C"
+  },
+  "318": {
+    "tag": "math",
+    "question": "Combien font 27 × 3.5 ?",
+    "A": "A) 95",
+    "B": "B) 96",
+    "C": "C) 97",
+    "D": "D) 98",
+    "answer": "C"
+  },
+  "353": {
+    "tag": "math",
+    "question": "Combien font 14.5 × 3 ?",
+    "A": "A) 43",
+    "B": "B) 44",
+    "C": "C) 45",
+    "D": "D) 43.5",
+    "answer": "D"
+  },
+  "354": {
+    "tag": "math",
+    "question": "Combien font 18.7 × 2 ?",
+    "A": "A) 36",
+    "B": "B) 37",
+    "C": "C) 38",
+    "D": "D) 37.4",
+    "answer": "D"
+  },
+  "355": {
+    "tag": "math",
+    "question": "Combien font 45 ÷ 4.5 ?",
+    "A": "A) 9",
+    "B": "B) 9.1",
+    "C": "C) 9.2",
+    "D": "D) 10",
+    "answer": "D"
+  },
+  "356": {
+    "tag": "math",
+    "question": "Combien font 72 ÷ 8.4 ?",
+    "A": "A) 8.5",
+    "B": "B) 8.6",
+    "C": "C) 8.7",
+    "D": "D) 8.57",
+    "answer": "D"
+  },
+  "357": {
+    "tag": "math",
+    "question": "Combien font 56 × 1.5 ?",
+    "A": "A) 84",
+    "B": "B) 85",
+    "C": "C) 86",
+    "D": "D) 85.5",
+    "answer": "D"
+  },
+  "358": {
+    "tag": "math",
+    "question": "Combien font 64 ÷ 5.5 ?",
+    "A": "A) 11.5",
+    "B": "B) 11.6",
+    "C": "C) 11.7",
+    "D": "D) 11.64",
+    "answer": "D"
+  },
+  "359": {
+    "tag": "math",
+    "question": "Combien font 36 × 2.3 ?",
+    "A": "A) 82",
+    "B": "B) 83",
+    "C": "C) 84",
+    "D": "D) 82.8",
+    "answer": "D"
+  },
+  "360": {
+    "tag": "math",
+    "question": "Combien font 84 ÷ 6.3 ?",
+    "A": "A) 13",
+    "B": "B) 13.2",
+    "C": "C) 13.3",
+    "D": "D) 13.33",
+    "answer": "D"
+  },
+  "361": {
+    "tag": "math",
+    "question": "Combien font 56 × 1.8 ?",
+    "A": "A) 100",
+    "B": "B) 101",
+    "C": "C) 102",
+    "D": "D) 100.8",
+    "answer": "D"
+  },
+  "362": {
+    "tag": "math",
+    "question": "Combien font 42.5 ÷ 5 ?",
+    "A": "A) 8",
+    "B": "B) 8.1",
+    "C": "C) 8.2",
+    "D": "D) 8.5",
+    "answer": "D"
+  },
+  "363": {
+    "tag": "math",
+    "question": "Combien font 54 × 1.4 ?",
+    "A": "A) 75",
+    "B": "B) 76",
+    "C": "C) 77",
+    "D": "D) 75.6",
+    "answer": "D"
+  },
+  "364": {
+    "tag": "math",
+    "question": "Combien font 72 ÷ 6.8 ?",
+    "A": "A) 10",
+    "B": "B) 10.1",
+    "C": "C) 10.2",
+    "D": "D) 10.29",
+    "answer": "D"
+  },
+  "365": {
+    "tag": "math",
+    "question": "Combien font 96 ÷ 9.6 ?",
+    "A": "A) 9",
+    "B": "B) 9.1",
+    "C": "C) 9.2",
+    "D": "D) 10",
+    "answer": "D"
+  },
+     "366": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un triangle isocèle connaissant la base et la hauteur ?",
+    "A": "A) (base × hauteur) / 2",
+    "B": "B) base × hauteur",
+    "C": "C) (côté × côté) / 2",
+    "D": "D) (base + hauteur) / 2",
+    "answer": "A"
+  },
+  "367": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un triangle équilatéral de côté a ?",
+    "A": "A) (√3 / 4) × a²",
+    "B": "B) (a × a) / 2",
+    "C": "C) a × a × √3",
+    "D": "D) a × √3 / 2",
+    "answer": "A"
+  },
+  "368": {
+    "tag": "math",
+    "question": "Quelle est la formule du volume d’un cône de rayon r et de hauteur h ?",
+    "A": "A) π × r² × h",
+    "B": "B) (1/3) × π × r² × h",
+    "C": "C) (1/2) × π × r × h",
+    "D": "D) π × r × h",
+    "answer": "B"
+  },
+  "369": {
+    "tag": "math",
+    "question": "Quelle est la formule du volume d'une pyramide de base B et de hauteur h ?",
+    "A": "A) B × h",
+    "B": "B) (1/2) × B × h",
+    "C": "C) (1/3) × B × h",
+    "D": "D) (2/3) × B × h",
+    "answer": "C"
+  },
+  "370": {
+    "tag": "math",
+    "question": "Quelle est la formule du volume d’un cylindre de rayon r et de hauteur h ?",
+    "A": "A) π × r² × h",
+    "B": "B) 2 × π × r × h",
+    "C": "C) π × r × h²",
+    "D": "D) (1/3) × π × r² × h",
+    "answer": "A"
+  },
+  "371": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un trapèze de bases a et b et de hauteur h ?",
+    "A": "A) (a + b) × h",
+    "B": "B) (1/2) × (a + b) × h",
+    "C": "C) (a - b) × h",
+    "D": "D) a × b × h",
+    "answer": "B"
+  },
+  "372": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un parallélogramme de base b et hauteur h ?",
+    "A": "A) b × h",
+    "B": "B) (1/2) × b × h",
+    "C": "C) b + h",
+    "D": "D) (b × h) / 2",
+    "answer": "A"
+  },
+  "373": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un cercle de rayon r ?",
+    "A": "A) 2 × π × r",
+    "B": "B) π × r²",
+    "C": "C) π × d²",
+    "D": "D) (1/2) × π × r²",
+    "answer": "B"
+  },
+  "374": {
+    "tag": "math",
+    "question": "Quelle est la formule de la longueur d’un arc de cercle de rayon r et d’angle θ (en radians) ?",
+    "A": "A) r × θ",
+    "B": "B) π × r × θ",
+    "C": "C) r² × θ",
+    "D": "D) (1/2) × r × θ",
+    "answer": "A"
+  },
+      "375": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un arc de cercle de rayon r et d’angle θ (en radians) ?",
+    "A": "A) π × r² × (θ / 360)",
+    "B": "B) π × r × θ",
+    "C": "C) (r² × θ) / 2",
+    "D": "D) 2π × r × θ",
+    "answer": "C"
+  },
+  "376": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire de la surface d’une sphère de rayon r ?",
+    "A": "A) 4π × r²",
+    "B": "B) 3π × r²",
+    "C": "C) 4/3 × π × r³",
+    "D": "D) π × r²",
+    "answer": "A"
+  }
+}
+  

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil - Quiz Master</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap">
+</head>
+<body>
+    <canvas id="matrix-bg" class="matrix-bg"></canvas>
+    <div id="particles-container"></div>
+    
+    <header class="main-header">
+        <div class="header-content">
+            <div class="logo-container">
+                <div class="logo">Q</div>
+                <h1 class="site-title">Quiz Master</h1>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html" class="active">Accueil</a></li>
+                    <li><a href="cyber.html">Cyber sécurité</a></li>
+                    <li><a href="finance.html">Finance</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div id="menu-screen" class="screen active">
+            <h1 class="title">Thèmes</h1>
+            <button class="menu-button streak" onclick="window.location.href='cyber.html'">Cyber sécurité</button>
+            <button class="menu-button network" onclick="window.location.href='finance.html'">Finance</button>
+        </div>
+    </div>
+
+    <footer class="main-footer">
+        <p>&copy; 2025 Quiz Master - Tous droits réservés</p>
+    </footer>
+
+    <script src="js/animations.js"></script>
+</body>
+</html>

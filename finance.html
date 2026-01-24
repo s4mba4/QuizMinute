@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Quiz - Quiz Master</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/quiz.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap">
+</head>
+<body>
+    <canvas id="matrix-bg" class="matrix-bg"></canvas>
+    <div id="particles-container"></div>
+    
+    <header class="main-header">
+        <div class="header-content">
+            <div class="logo-container">
+                <div class="logo">Q</div>
+                <h1 class="site-title">Quiz Master</h1>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="cyber.html">Cyber sécurité</a></li>
+                    <li><a href="finance.html" class="active">Finance</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div id="menu-screen" class="screen active">
+            <h1 class="title">Finance Quiz</h1>
+            <button class="menu-button streak" onclick="handleCategoryClick('Streak')">Streak</button>
+            <button class="menu-button ceh" onclick="handleCategoryClick('math')">Calcul Mental</button>
+            <button class="menu-button network" onclick="handleCategoryClick('tage-cours')">TAGE MAGE - Question de cours</button>
+            <button class="menu-button infinite" onclick="handleCategoryClick('Infinite')">Infinite</button>
+        </div>
+
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <button class="exit-button" onclick="returnToMenu()">Quitter</button>
+                <div id="category-display" class="category-display">Mode Débutant</div>
+                <div id="question-counter" class="question-counter">1/10</div>
+            </div>
+
+            <div class="progress-container">
+                <div id="progress-bar" class="progress-bar"></div>
+            </div>
+
+            <div class="card">
+                <h2 id="question-text" class="question-text">La question apparaîtra ici</h2>
+
+                <div class="options-container">
+                    <button id="option-A" class="option-button" onclick="handleAnswerSelect('A')">
+                        <span class="option-letter">A.</span>
+                        <span id="option-A-text" class="option-text">Option A</span>
+                        <span id="option-A-icon" class="option-icon"></span>
+                    </button>
+                    <button id="option-B" class="option-button" onclick="handleAnswerSelect('B')">
+                        <span class="option-letter">B.</span>
+                        <span id="option-B-text" class="option-text">Option B</span>
+                        <span id="option-B-icon" class="option-icon"></span>
+                    </button>
+                    <button id="option-C" class="option-button" onclick="handleAnswerSelect('C')">
+                        <span class="option-letter">C.</span>
+                        <span id="option-C-text" class="option-text">Option C</span>
+                        <span id="option-C-icon" class="option-icon"></span>
+                    </button>
+                    <button id="option-D" class="option-button" onclick="handleAnswerSelect('D')">
+                        <span class="option-letter">D.</span>
+                        <span id="option-D-text" class="option-text">Option D</span>
+                        <span id="option-D-icon" class="option-icon"></span>
+                    </button>
+                </div>
+
+                <div id="feedback-message" class="feedback-message hidden"></div>
+            </div>
+        </div>
+
+        <div id="results-screen" class="screen">
+            <h2 class="results-title">Quiz Terminé !</h2>
+            <div id="score-display" class="score-display">0/10</div>
+            <p id="score-message" class="score-message">Continuez à apprendre et réessayez !</p>
+            <button class="menu-button streak" onclick="returnToMenu()">Retour au Menu</button>
+            <div id="summary-questions"></div>
+        </div>
+    </div>
+    
+    <footer class="main-footer">
+        <p>&copy; 2025 Quiz Master - Tous droits réservés</p>
+    </footer>
+
+    <script src="js/animations.js"></script>
+    <!-- Ajoutons un script de débogage pour voir la structure des données -->
+    <script>
+        // Override loadQuestions for finance quiz
+        async function loadQuestions() {
+            try {
+                const response = await fetch('https://s4mba4.github.io/QuizMinute/quizz-db/finance.json');
+                const data = await response.json();
+                return Object.values(data);
+            } catch (error) {
+                console.error('Failed to load questions:', error);
+                return [];
+            }
+        }
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
