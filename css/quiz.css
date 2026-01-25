@@ -79,6 +79,9 @@
   margin-bottom: 24px;
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 
 .options-container {
@@ -88,7 +91,7 @@
 
 .option-button {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   padding: 16px;
   text-align: left;
   background-color: rgba(255, 255, 255, 0.05);
@@ -99,7 +102,8 @@
   font-size: 1rem;
   color: #e0e0e0;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
+  gap: 12px;
 }
 
 .option-button:hover:not(.selected) {
@@ -153,12 +157,16 @@
 
 .option-letter {
   font-weight: bold;
-  margin-right: 12px;
   color: rgba(255, 255, 255, 0.7);
+  flex-shrink: 0;
+  min-width: 2rem;
 }
 
 .option-text {
   flex: 1;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 
 .option-icon {

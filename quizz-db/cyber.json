@@ -1348,5 +1348,590 @@
             "C": "Session",
             "D": "Transport",
             "answer": "B"
+      },
+      "150": {
+            "tag": "CEH",
+            "question": "Quelle option de Nmap permet de réaliser un 'Service Version Detection' pour identifier les versions logicielles tournant sur les ports ouverts ?",
+            "A": "A) -sS",
+            "B": "B) -sV",
+            "C": "C) -O",
+            "D": "D) -A",
+            "answer": "B"
+      },
+      "151": {
+            "tag": "CEH",
+            "question": "Un attaquant utilise 'nslookup' pour tenter de transférer l'intégralité d'une zone DNS. Quelle commande est typiquement utilisée pour cela ?",
+            "A": "A) set type=mx",
+            "B": "B) ls -d domain.com",
+            "C": "C) server 8.8.8.8",
+            "D": "D) set type=ptr",
+            "answer": "B"
+      },
+      "152": {
+            "tag": "CEH",
+            "question": "Quel type d'attaque par déni de service (DoS) exploite les vulnérabilités de la pile TCP/IP lors du réassemblage de paquets fragmentés malformés ?",
+            "A": "A) SYN Flood",
+            "B": "B) Teardrop Attack",
+            "C": "C) Smurf Attack",
+            "D": "D) Slowloris",
+            "answer": "B"
+      },
+      "153": {
+            "tag": "CEH",
+            "question": "Lors d'une phase de scan, vous recevez une réponse avec le flag RST positionné après avoir envoyé un paquet SYN. Que cela signifie-t-il ?",
+            "A": "A) Le port est filtré par un firewall",
+            "B": "B) Le port est ouvert",
+            "C": "C) Le port est fermé",
+            "D": "D) La machine est hors ligne",
+            "answer": "C"
+      },
+      "154": {
+            "tag": "CEH",
+            "question": "Quelle attaque consiste à intercepter un cookie de session valide pour prendre le contrôle de la session d'un utilisateur sans connaître ses identifiants ?",
+            "A": "A) Session Hijacking",
+            "B": "B) SQL Injection",
+            "C": "C) Cross-Site Scripting",
+            "D": "D) Brute Force",
+            "answer": "A"
+      },
+      "155": {
+            "tag": "CEH",
+            "question": "Quel algorithme de chiffrement est utilisé par le protocole WPA2 ?",
+            "A": "A) RC4",
+            "B": "B) DES",
+            "C": "C) AES-CCMP",
+            "D": "D) TKIP",
+            "answer": "C"
+      },
+      "156": {
+            "tag": "CEH",
+            "question": "Dans le cadre de l'analyse de vulnérabilités, qu'est-ce qu'un faux positif ?",
+            "A": "A) Une vulnérabilité critique non détectée",
+            "B": "B) Un outil qui signale une vulnérabilité là où il n'y en a pas",
+            "C": "C) Une faille corrigée récemment",
+            "D": "D) Une attaque réussie sur un Honeypot",
+            "answer": "B"
+      },
+      "157": {
+            "tag": "CEH",
+            "question": "Quel protocole est vulnérable à l'attaque 'POODLE' ?",
+            "A": "A) TLS 1.3",
+            "B": "B) SSL 3.0",
+            "C": "C) SSH-2",
+            "D": "D) IPSec",
+            "answer": "B"
+      },
+      "158": {
+            "tag": "CEH",
+            "question": "Quelle méthode d'attaque de mot de passe utilise des combinaisons de caractères alphanumériques de manière exhaustive ?",
+            "A": "A) Dictionary Attack",
+            "B": "B) Brute Force Attack",
+            "C": "C) Rule-based Attack",
+            "D": "D) Sybil Attack",
+            "answer": "B"
+      },
+      "159": {
+            "tag": "CEH",
+            "question": "Un pirate envoie une requête ping avec une charge utile dépassant la taille maximale autorisée (65535 octets). Comment appelle-t-on cette attaque ?",
+            "A": "A) Ping Sweep",
+            "B": "B) Ping of Death",
+            "C": "C) ICMP Flood",
+            "D": "D) Land Attack",
+            "answer": "B"
+      },
+      "160": {
+            "tag": "CEH",
+            "question": "Quel outil est un scanner de vulnérabilités réseau très répandu utilisé par les pentesters ?",
+            "A": "A) Nessus",
+            "B": "B) Wireshark",
+            "C": "C) Cain & Abel",
+            "D": "D) John the Ripper",
+            "answer": "A"
+      },
+      "161": {
+            "tag": "CEH",
+            "question": "Qu'est-ce qu'une attaque 'Bluejacking' ?",
+            "A": "A) Voler des données via Bluetooth",
+            "B": "B) Envoyer des messages non sollicités à des appareils Bluetooth",
+            "C": "C) Prendre le contrôle total d'un casque Bluetooth",
+            "D": "D) Intercepter des appels mobiles",
+            "answer": "B"
+      },
+      "162": {
+            "tag": "CEH",
+            "question": "Quel en-tête HTTP peut être utilisé pour prévenir les attaques de type Cross-Site Scripting (XSS) ?",
+            "A": "A) Content-Type",
+            "B": "B) Content-Security-Policy (CSP)",
+            "C": "C) Server",
+            "D": "D) X-Frame-Options",
+            "answer": "B"
+      },
+      "163": {
+            "tag": "CEH",
+            "question": "Quelle phase du Hacking consiste à supprimer les journaux d'audit (Logs) pour masquer sa présence ?",
+            "A": "A) Scanning",
+            "B": "B) Maintaining Access",
+            "C": "C) Clearing Tracks",
+            "D": "D) Gaining Access",
+            "answer": "C"
+      },
+      "164": {
+            "tag": "CEH",
+            "question": "Quel type de malware est spécifiquement conçu pour masquer l'existence de certains processus ou fichiers au système d'exploitation ?",
+            "A": "A) Ransomware",
+            "B": "B) Rootkit",
+            "C": "C) Keylogger",
+            "D": "D) Adware",
+            "answer": "B"
+      },
+      "165": {
+            "tag": "CEH",
+            "question": "Dans une infrastructure PKI, quel composant est responsable de la délivrance des certificats numériques ?",
+            "A": "A) Registration Authority (RA)",
+            "B": "B) Certificate Authority (CA)",
+            "C": "C) Validation Authority (VA)",
+            "D": "D) Key Escrow",
+            "answer": "B"
+      },
+      "166": {
+            "tag": "CEH",
+            "question": "Quel port par défaut est utilisé par Global Catalog dans un environnement Active Directory ?",
+            "A": "A) 389",
+            "B": "B) 636",
+            "C": "C) 3268",
+            "D": "D) 3389",
+            "answer": "C"
+      },
+      "167": {
+            "tag": "CEH",
+            "question": "Quelle attaque de cryptographie consiste à tester toutes les clés possibles jusqu'à trouver la bonne ?",
+            "A": "A) Known Plaintext",
+            "B": "B) Exhaustive Search",
+            "C": "C) Birthday Attack",
+            "D": "D) Linear Cryptanalysis",
+            "answer": "B"
+      },
+      "168": {
+            "tag": "CEH",
+            "question": "Un attaquant utilise l'outil 'Nikto'. Quel est son objectif principal ?",
+            "A": "A) Scanner les vulnérabilités d'un serveur Web",
+            "B": "B) Craquer des mots de passe Wi-Fi",
+            "C": "C) Analyser le trafic réseau en temps réel",
+            "D": "D) Effectuer une attaque de l'homme du milieu",
+            "answer": "A"
+      },
+      "169": {
+            "tag": "CEH",
+            "question": "Quel type d'IDS (Intrusion Detection System) compare l'activité réseau à une base de données de signatures connues ?",
+            "A": "A) Anomaly-based IDS",
+            "B": "B) Signature-based IDS",
+            "C": "C) Stateful Protocol Analysis",
+            "D": "D) Behavior-based IDS",
+            "answer": "B"
+      },
+      "170": {
+            "tag": "CEH",
+            "question": "Quelle vulnérabilité permet à un attaquant d'accéder à des fichiers en dehors du répertoire racine du serveur Web via des séquences '../' ?",
+            "A": "A) Directory Traversal",
+            "B": "B) Command Injection",
+            "C": "C) Broken Authentication",
+            "D": "D) Security Misconfiguration",
+            "answer": "A"
+      },
+      "171": {
+            "tag": "CEH",
+            "question": "Quel protocole utilise le port 161 pour la gestion des équipements réseau ?",
+            "A": "A) SMTP",
+            "B": "B) SNMP",
+            "C": "C) SSH",
+            "D": "D) SFTP",
+            "answer": "B"
+      },
+      "172": {
+            "tag": "CEH",
+            "question": "Un attaquant place un point d'accès Wi-Fi avec le même SSID qu'un réseau légitime pour tromper les utilisateurs. Comment appelle-t-on cela ?",
+            "A": "A) Rogue Access Point",
+            "B": "B) Evil Twin",
+            "C": "C) War Chalking",
+            "D": "D) Jamming",
+            "answer": "B"
+      },
+      "173": {
+            "tag": "CEH",
+            "question": "Quelle est la longueur de clé standard utilisée par l'algorithme DES ?",
+            "A": "A) 56 bits",
+            "B": "B) 128 bits",
+            "C": "C) 192 bits",
+            "D": "D) 256 bits",
+            "answer": "A"
+      },
+      "174": {
+            "tag": "CEH",
+            "question": "Lequel de ces outils est spécifiquement conçu pour l'énumération SNMP ?",
+            "A": "A) Snmpcheck",
+            "B": "B) Hydra",
+            "C": "C) Responder",
+            "D": "D) Sqlmap",
+            "answer": "A"
+      },
+      "175": {
+            "tag": "CEH",
+            "question": "Que signifie l'acronyme 'SIEM' ?",
+            "A": "A) Security Incident Emergency Management",
+            "B": "B) System Information and Entry Monitoring",
+            "C": "C) Security Information and Event Management",
+            "D": "D) Secure Infrastructure and Email Management",
+            "answer": "C"
+      },
+      "176": {
+            "tag": "CEH",
+            "question": "Quel type d'attaque web cible l'utilisateur final en le forçant à exécuter des actions non désirées sur une application où il est authentifié ?",
+            "A": "A) XSS",
+            "B": "B) CSRF (Cross-Site Request Forgery)",
+            "C": "C) SQLi",
+            "D": "D) IDOR",
+            "answer": "B"
+      },
+      "177": {
+            "tag": "CEH",
+            "question": "Quel outil permet d'automatiser la recherche de vulnérabilités par injection SQL ?",
+            "A": "A) Burp Suite",
+            "B": "B) Sqlmap",
+            "C": "C) Nmap",
+            "D": "D) Maltego",
+            "answer": "B"
+      },
+      "178": {
+            "tag": "CEH",
+            "question": "Quel protocole est utilisé pour transmettre les logs d'un firewall vers un serveur centralisé ?",
+            "A": "A) Syslog",
+            "B": "B) SNMP",
+            "C": "C) HTTP",
+            "D": "D) FTP",
+            "answer": "A"
+      },
+      "179": {
+            "tag": "CEH",
+            "question": "Dans le modèle Cloud, qui est responsable de la sécurité 'dans le Cloud' (données, identités) en mode IaaS ?",
+            "A": "A) Le fournisseur (Cloud Provider)",
+            "B": "B) Le client",
+            "C": "C) L'autorité de certification",
+            "D": "D) Personne",
+            "answer": "B"
+      },
+      "180": {
+            "tag": "CEH",
+            "question": "Quel algorithme de hachage produit une empreinte de 160 bits ?",
+            "A": "A) MD5",
+            "B": "B) SHA-1",
+            "C": "C) SHA-256",
+            "D": "D) NTLM",
+            "answer": "B"
+      },
+      "181": {
+            "tag": "CEH",
+            "question": "Quelle attaque exploite la confiance entre un serveur web et le navigateur de l'utilisateur pour voler des cookies de session ?",
+            "A": "A) Reflective XSS",
+            "B": "B) Stored XSS",
+            "C": "C) DOM-based XSS",
+            "D": "D) Toutes les réponses précédentes",
+            "answer": "D"
+      },
+      "182": {
+            "tag": "CEH",
+            "question": "Quel outil est principalement utilisé pour l'analyse de métadonnées sur des documents publics (OSINT) ?",
+            "A": "A) FOCA",
+            "B": "B) Recon-ng",
+            "C": "C) Shodan",
+            "D": "D) Whois",
+            "answer": "A"
+      },
+      "183": {
+            "tag": "CEH",
+            "question": "Comment appelle-t-on le fait d'envoyer un email frauduleux ciblant spécifiquement un haut dirigeant d'entreprise ?",
+            "A": "A) Phishing",
+            "B": "B) Vishing",
+            "C": "C) Whaling",
+            "D": "D) Smishing",
+            "answer": "C"
+      },
+      "184": {
+            "tag": "CEH",
+            "question": "Quel mode d'IPSec assure le chiffrement de l'intégralité du paquet IP original (en-tête + données) ?",
+            "A": "A) Transport Mode",
+            "B": "B) Tunnel Mode",
+            "C": "C) Peer Mode",
+            "D": "D) Gateway Mode",
+            "answer": "B"
+      },
+      "185": {
+            "tag": "CEH",
+            "question": "Quel type d'analyse consiste à examiner le code source d'une application sans l'exécuter ?",
+            "A": "A) Dynamic Analysis",
+            "B": "B) Static Analysis (SAST)",
+            "C": "C) Fuzzing",
+            "D": "D) Penetration Testing",
+            "answer": "B"
+      },
+      "186": {
+            "tag": "CEH",
+            "question": "Quel outil est utilisé pour manipuler les paquets réseau et créer des flux personnalisés pour tester des pare-feux ?",
+            "A": "A) Hping3",
+            "B": "B) Wireshark",
+            "C": "C) Zenmap",
+            "D": "D) Netcat",
+            "answer": "A"
+      },
+      "187": {
+            "tag": "CEH",
+            "question": "Un attaquant utilise 'Kismet' pour scanner les réseaux environnants. Quel est son but ?",
+            "A": "A) Détecter des réseaux sans-fil (War Driving)",
+            "B": "B) Craquer des mots de passe PDF",
+            "C": "C) Intercepter des emails non chiffrés",
+            "D": "D) Créer un botnet",
+            "answer": "A"
+      },
+      "188": {
+            "tag": "CEH",
+            "question": "Quelle attaque permet à un utilisateur non privilégié d'obtenir des droits d'administrateur système ?",
+            "A": "A) Horizontal Privilege Escalation",
+            "B": "B) Vertical Privilege Escalation",
+            "C": "C) Buffer Overflow",
+            "D": "D) Side-channel attack",
+            "answer": "B"
+      },
+      "189": {
+            "tag": "CEH",
+            "question": "Dans le cadre de l'Internet des Objets (IoT), quel protocole léger est souvent utilisé pour la communication entre capteurs ?",
+            "A": "A) HTTP",
+            "B": "B) MQTT",
+            "C": "C) FTP",
+            "D": "D) SSH",
+            "answer": "B"
+      },
+      "190": {
+            "tag": "CEH",
+            "question": "Quel type d'attaque vise à corrompre le cache d'un serveur DNS pour rediriger les utilisateurs vers un site malveillant ?",
+            "A": "A) DNS Spoofing / Poisoning",
+            "B": "B) DNS Amplification",
+            "C": "C) DNS Tunneling",
+            "D": "D) DNS Hijacking",
+            "answer": "A"
+      },
+      "191": {
+            "tag": "CEH",
+            "question": "Quel est l'objectif d'une attaque par 'Déni de Service Distribué' (DDoS) ?",
+            "A": "A) Voler des bases de données",
+            "B": "B) Rendre un service indisponible en utilisant un grand nombre de machines compromises (Botnet)",
+            "C": "C) Décoder des messages chiffrés",
+            "D": "D) Espionner les employés",
+            "answer": "B"
+      },
+      "192": {
+            "tag": "CEH",
+            "question": "Quelle attaque consiste à injecter des balises HTML ou des scripts dans une page web qui seront stockés sur le serveur et affichés à tous les visiteurs ?",
+            "A": "A) Reflective XSS",
+            "B": "B) Stored XSS",
+            "C": "C) Blind SQLi",
+            "D": "D) Parameter Tampering",
+            "answer": "B"
+      },
+      "193": {
+            "tag": "CEH",
+            "question": "Quel protocole de chiffrement asymétrique est basé sur la difficulté de factoriser de grands nombres premiers ?",
+            "A": "A) Diffie-Hellman",
+            "B": "B) RSA",
+            "C": "C) ECC (Elliptic Curve Cryptography)",
+            "D": "D) ElGamal",
+            "answer": "B"
+      },
+      "194": {
+            "tag": "CEH",
+            "question": "L'outil 'Social Engineer Toolkit' (SET) est principalement utilisé pour quel type d'activité ?",
+            "A": "A) Analyse de logs",
+            "B": "B) Campagnes de phishing et de social engineering",
+            "C": "C) Hacking de bases de données",
+            "D": "D) Détection d'intrusions",
+            "answer": "B"
+      },
+      "195": {
+            "tag": "CEH",
+            "question": "Quelle vulnérabilité permet à un attaquant d'exécuter des commandes système via une application web mal protégée ?",
+            "A": "A) Insecure Deserialization",
+            "B": "B) Command Injection",
+            "C": "C) Missing Layered Security",
+            "D": "D) Unvalidated Redirects",
+            "answer": "B"
+      },
+      "196": {
+            "tag": "CEH",
+            "question": "Quel type de pare-feu inspecte non seulement les ports et IP, mais aussi l'état des connexions actives ?",
+            "A": "A) Packet Filter",
+            "B": "B) Application Gateway",
+            "C": "C) Stateful Inspection Firewall",
+            "D": "D) Circuit-level Gateway",
+            "answer": "C"
+      },
+      "197": {
+            "tag": "CEH",
+            "question": "Quel port est utilisé par défaut par le protocole sécurisé LDAPS ?",
+            "A": "A) 389",
+            "B": "B) 443",
+            "C": "C) 636",
+            "D": "D) 993",
+            "answer": "C"
+      },
+      "198": {
+            "tag": "CEH",
+            "question": "Un 'Script Kiddie' se caractérise par :",
+            "A": "A) Une connaissance approfondie des vulnérabilités Zero-day",
+            "B": "B) L'utilisation d'outils automatisés créés par d'autres sans comprendre leur fonctionnement réel",
+            "C": "C) Travailler pour des agences gouvernementales",
+            "D": "D) Ne jamais utiliser Internet",
+            "answer": "B"
+      },
+      "199": {
+            "tag": "CEH",
+            "question": "Quelle norme internationale définit les critères d'évaluation de la sécurité des produits informatiques (Common Criteria) ?",
+            "A": "A) ISO 27001",
+            "B": "B) ISO 15408",
+            "C": "C) PCI-DSS",
+            "D": "D) HIPAA",
+            "answer": "B"
+      },
+      "200": {
+            "tag": "CEH",
+            "question": "Quelle est la syntaxe correcte de l'outil 'dig' pour tenter un transfert de zone (AXFR) sur le serveur ns1.target.com ?",
+            "A": "A) dig target.com @ns1.target.com axfr",
+            "B": "B) dig axfr target.com @ns1.target.com",
+            "C": "C) dig -t zone target.com ns1.target.com",
+            "D": "D) dig transfer target.com @ns1.target.com",
+            "answer": "B"
+      },
+      "201": {
+            "tag": "CEH",
+            "question": "Lors d'un 'Idle Scan' (-sI), si l'IPID du zombie augmente de 2 après avoir sondé la cible, quel est l'état du port ?",
+            "A": "A) Fermé",
+            "B": "B) Filtré",
+            "C": "C) Ouvert",
+            "D": "D) Ouvert|Filtré",
+            "answer": "C"
+      },
+      "202": {
+            "tag": "CEH",
+            "question": "Quel Google Dork permet de cibler spécifiquement les fichiers de configuration IIS exposés dans des listings de répertoires ?",
+            "A": "A) filetype:config \"web.config\"",
+            "B": "B) intitle:\"index of\" \"web.config\"",
+            "C": "C) inurl:admin \"web.config\"",
+            "D": "D) allintext:connectionString web.config",
+            "answer": "B"
+      },
+      "203": {
+            "tag": "CEH",
+            "question": "Dans un scan Nmap ACK (-sA), une réponse ICMP Type 3 Code 13 (Communication administratively prohibited) indique que le port est :",
+            "A": "A) Unfiltered",
+            "B": "B) Open",
+            "C": "C) Closed",
+            "D": "D) Filtered",
+            "answer": "D"
+      },
+      "204": {
+            "tag": "CEH",
+            "question": "Quelle version de SNMP a introduit le modèle de sécurité USM (User-based Security Model) ?",
+            "A": "A) SNMPv1",
+            "B": "B) SNMPv2c",
+            "C": "C) SNMPv3",
+            "D": "D) SNMPv4",
+            "answer": "C"
+      },
+      "205": {
+            "tag": "CEH",
+            "question": "Selon la RFC 793, comment doit répondre une pile TCP conforme à un scan Xmas (-sX) si le port est ouvert ?",
+            "A": "A) En envoyant un paquet RST",
+            "B": "B) En envoyant un paquet SYN/ACK",
+            "C": "C) En ne renvoyant aucune réponse",
+            "D": "D) En envoyant un paquet ICMP Destination Unreachable",
+            "answer": "C"
+      },
+      "206": {
+            "tag": "CEH",
+            "question": "Quel outil est capable de réaliser un empoisonnement ARP et d'injecter du code JavaScript dans les pages HTTP visitées par une victime ?",
+            "A": "A) Bettercap",
+            "B": "B) Wireshark",
+            "C": "C) Nmap",
+            "D": "D) Tcpdump",
+            "answer": "A"
+      },
+      "207": {
+            "tag": "CEH",
+            "question": "Dans une attaque VLAN Hopping par 'Double Tagging', quel est le rôle du premier switch (natif) ?",
+            "A": "A) Il rejette le paquet malformé",
+            "B": "B) Il retire le tag 802.1Q externe et transmet le paquet avec le tag interne",
+            "C": "C) Il ajoute un troisième tag pour la redondance",
+            "D": "D) Il encapsule le paquet dans un tunnel GRE",
+            "answer": "B"
+      },
+      "208": {
+            "tag": "CEH",
+            "question": "Quelle est la contre-mesure structurelle la plus efficace contre les attaques d'empoisonnement DNS de type Kaminsky ?",
+            "A": "A) Réduire le TTL des enregistrements",
+            "B": "B) Utiliser DNSSEC",
+            "C": "C) Désactiver le port 53 en UDP",
+            "D": "D) Utiliser uniquement des serveurs DNS récursifs",
+            "answer": "B"
+      },
+      "209": {
+            "tag": "CEH",
+            "question": "Quel enregistrement DNS est analysé par un attaquant pour identifier les politiques de sécurité email comme SPF ou DMARC ?",
+            "A": "A) PTR",
+            "B": "B) MX",
+            "C": "C) TXT",
+            "D": "D) SOA",
+            "answer": "C"
+      },
+      "210": {
+            "tag": "CEH",
+            "question": "Comment appelle-t-on l'envoi de paquets TCP avec des combinaisons de flags invalides pour identifier un OS par sa réponse ?",
+            "A": "A) Banner Grabbing",
+            "B": "B) Active Stack Fingerprinting",
+            "C": "C) Passive OS Discovery",
+            "D": "D) TTL Analysis",
+            "answer": "B"
+      },
+      "211": {
+            "tag": "CEH",
+            "question": "Quel est le but final d'une attaque 'DHCP Starvation' ?",
+            "A": "A) Ralentir le réseau local",
+            "B": "B) Forcer les clients à utiliser un serveur DHCP pirate (Rogue DHCP)",
+            "C": "C) Craquer le mot de passe du routeur",
+            "D": "D) Désactiver le firewall de la passerelle",
+            "answer": "B"
+      },
+      "212": {
+            "tag": "CEH",
+            "question": "Quelle commande hping3 permet de générer un paquet SYN+FIN sur le port 80 ?",
+            "A": "A) hping3 -80 -SF target.com",
+            "B": "B) hping3 -p 80 -S -F target.com",
+            "C": "C) hping3 -p 80 --flags SYNFIN target.com",
+            "D": "D) hping3 -p 80 -A -P target.com",
+            "answer": "B"
+      },
+      "213": {
+            "tag": "CEH",
+            "question": "Quel outil automatise l'énumération SMB en combinant rpcclient, net, nmblookup et smbclient ?",
+            "A": "A) Hydra",
+            "B": "B) Enum4linux",
+            "C": "C) Responder",
+            "D": "D) Metasploit",
+            "answer": "B"
+      },
+      "214": {
+            "tag": "CEH",
+            "question": "Quel filtre Wireshark permet d'isoler uniquement les requêtes HTTP de type POST ?",
+            "A": "A) http.request.method == \"POST\"",
+            "B": "B) tcp.port == 80 and post",
+            "C": "C) http.content_type == \"application/x-www-form-urlencoded\"",
+            "D": "D) eth.type == post",
+            "answer": "A"
       }
 }
